@@ -1,0 +1,1284 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MLNGFAKHRPLSTLEYEQQLDYLCQWMEKWSDQVRRSVIDLLLPRCDQEQITFLWTVVEPTLHRDFMYSSLNAFPRSSFSPVSTPLCREVHKKLGKPRYRAWKLHRVESAILHDEEEVKAWTSTAVLPIVKSPSLASPSRQTKRTPSPERVESRGSWKSKTTYFGVKLPGISSVGGQKRSLSRFTGSRSAPPCGATKTSSQHAVRRHMQNEYKKDVINNAAMDSGRKADDVTSWQRLYKSKSCPNVSHTAKSVVGQQRHVLHHRTKTEQGPNSTWNLISLPENAQCLVQWFEQQWSGWQKNEFLQLFLRVLAPSELYFLSGLLAVKQYRDFIAMLPEQLAIRIFSFLVPKELLVVCQVSKTWRRLASKDELWKAKCQETYVGVPLSTPAVWKDIFRENLNLKRNWANGRCKVTDMSGHTHNVLSVCAYKNYVATGSLDRTIKIWDAKSGTLLLTFQGHTRGIWSLRFLSSSILISGSYDKTIRLWSLRTNMCVRILISHDGPVWAIERKGDFLVSGSSDKTAKIWNIRQCKLLFSLMGHNGCVFCVDLDNECKKAFTGSGDRTVRVWEVSSGVCLLSFNIGLLSGSTVTAVSFDQGHVVVGSGQLVSLWNLETGACVNEFKGHKGRIESIKLKFIMVNGKKEAGLIVSAGKDGLIKYWDIEQGSCIQTLKGHKDNVNCIHVDSTRIISVSYDQRVRVWDFNS",
+  "md5" : "fd8d984f793b186732a8999fa090527d",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PS50082",
+      "name" : "WD_REPEATS_2",
+      "description" : "Trp-Asp (WD) repeats profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 496,
+      "end" : 535,
+      "score" : 10.676,
+      "alignment" : "LISHDGPVWAIERKGD--FLVSGSSDKTAKIWNIRQCKLLFS",
+      "location-fragments" : [ {
+        "start" : 496,
+        "end" : 535,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50082"
+  }, {
+    "signature" : {
+      "accession" : "SM00256",
+      "name" : "fbox_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "7.1"
+      },
+      "entry" : {
+        "accession" : "IPR001810",
+        "name" : "F-box_dom",
+        "description" : "F-box domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 335,
+      "end" : 375,
+      "hmmStart" : 1,
+      "hmmEnd" : 41,
+      "hmmLength" : 41,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-7,
+      "score" : 40.5,
+      "location-fragments" : [ {
+        "start" : 335,
+        "end" : 375,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-7,
+    "score" : 40.5,
+    "model-ac" : "SM00256"
+  }, {
+    "signature" : {
+      "accession" : "PTHR44156:SF14",
+      "name" : "F-BOX AND WD REPEAT DOMAIN-CONTAINING 7",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 303,
+      "end" : 701,
+      "hmmStart" : 21,
+      "hmmEnd" : 418,
+      "hmmLength" : 473,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 286,
+      "envelopeEnd" : 702,
+      "location-fragments" : [ {
+        "start" : 303,
+        "end" : 701,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.8E-90,
+    "familyName" : "Not available",
+    "score" : 314.4,
+    "model-ac" : "PTHR44156:SF14"
+  }, {
+    "signature" : {
+      "accession" : "SSF50978",
+      "name" : "WD40 repeat-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036322",
+        "name" : "WD40_repeat_dom_sf",
+        "description" : "WD40-repeat-containing domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 413,
+      "end" : 701,
+      "hmmLength" : 355,
+      "location-fragments" : [ {
+        "start" : 413,
+        "end" : 701,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.16E-64,
+    "model-ac" : "0048349"
+  }, {
+    "signature" : {
+      "accession" : "PF12937",
+      "name" : "F-box-like",
+      "description" : "F-box-like",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR001810",
+        "name" : "F-box_dom",
+        "description" : "F-box domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 334,
+      "end" : 376,
+      "hmmStart" : 3,
+      "hmmEnd" : 46,
+      "hmmLength" : 48,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 4.2E-10,
+      "score" : 39.3,
+      "envelopeStart" : 332,
+      "envelopeEnd" : 378,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 334,
+        "end" : 376,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.5E-10,
+    "score" : 40.8,
+    "model-ac" : "PF12937"
+  }, {
+    "signature" : {
+      "accession" : "PS50181",
+      "name" : "FBOX",
+      "description" : "F-box domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001810",
+        "name" : "F-box_dom",
+        "description" : "F-box domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 329,
+      "end" : 375,
+      "score" : 12.438,
+      "alignment" : "RDFIAMLPEQLAIRIFSFLVPKELLVVCQVSKTWRRLASKDELWKAK",
+      "location-fragments" : [ {
+        "start" : 329,
+        "end" : 375,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50181"
+  }, {
+    "signature" : {
+      "accession" : "PS00678",
+      "name" : "WD_REPEATS_1",
+      "description" : "Trp-Asp (WD) repeats signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR019775",
+        "name" : "WD40_repeat_CS",
+        "description" : "WD40 repeat, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 513,
+      "end" : 527,
+      "level" : "STRONG",
+      "cigarAlignment" : "4M2I1M1I7M",
+      "alignment" : "LVSGssDkTAKIWNI",
+      "location-fragments" : [ {
+        "start" : 513,
+        "end" : 527,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00678"
+  }, {
+    "signature" : {
+      "accession" : "PS50082",
+      "name" : "WD_REPEATS_2",
+      "description" : "Trp-Asp (WD) repeats profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 645,
+      "end" : 668,
+      "score" : 9.94,
+      "alignment" : "------------------LIVSAGKDGLIKYWDIEQGSCIQT",
+      "location-fragments" : [ {
+        "start" : 645,
+        "end" : 668,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50082"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 134,
+      "end" : 156,
+      "location-fragments" : [ {
+        "start" : 134,
+        "end" : 156,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PS00678",
+      "name" : "WD_REPEATS_1",
+      "description" : "Trp-Asp (WD) repeats signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR019775",
+        "name" : "WD40_repeat_CS",
+        "description" : "WD40 repeat, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 686,
+      "end" : 700,
+      "level" : "STRONG",
+      "cigarAlignment" : "4M2I1M1I7M",
+      "alignment" : "IISVsyDqRVRVWDF",
+      "location-fragments" : [ {
+        "start" : 686,
+        "end" : 700,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00678"
+  }, {
+    "signature" : {
+      "accession" : "PS50082",
+      "name" : "WD_REPEATS_2",
+      "description" : "Trp-Asp (WD) repeats profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 536,
+      "end" : 577,
+      "score" : 12.614,
+      "alignment" : "LMGHNGCVFCVDLDNECKKAFTGSGDRTVRVWEVSSGVCLLS",
+      "location-fragments" : [ {
+        "start" : 536,
+        "end" : 577,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50082"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1280.50",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 315,
+      "end" : 404,
+      "hmmStart" : 9,
+      "hmmEnd" : 85,
+      "hmmLength" : 87,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 5.3E-21,
+      "score" : 76.4,
+      "envelopeStart" : 315,
+      "envelopeEnd" : 407,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 315,
+        "end" : 404,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.3E-21,
+    "score" : 76.4,
+    "model-ac" : "2ovrB01"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.130.10.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR015943",
+        "name" : "WD40/YVTN_repeat-like_dom_sf",
+        "description" : "WD40/YVTN repeat-like-containing domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 509,
+      "end" : 702,
+      "hmmStart" : 68,
+      "hmmEnd" : 249,
+      "hmmLength" : 295,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.6E-48,
+      "score" : 165.8,
+      "envelopeStart" : 509,
+      "envelopeEnd" : 702,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 509,
+        "end" : 702,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.1E-95,
+    "score" : 319.5,
+    "model-ac" : "1p22A02"
+  }, {
+    "signature" : {
+      "accession" : "cd00200",
+      "name" : "WD40",
+      "description" : "WD40",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 417,
+      "end" : 699,
+      "sites" : [ {
+        "description" : "structural tetrad",
+        "numLocations" : 38,
+        "siteLocations" : [ {
+          "start" : 623,
+          "end" : 623,
+          "residue" : "H"
+        }, {
+          "start" : 498,
+          "end" : 498,
+          "residue" : "S"
+        }, {
+          "start" : 609,
+          "end" : 609,
+          "residue" : "W"
+        }, {
+          "start" : 610,
+          "end" : 610,
+          "residue" : "N"
+        }, {
+          "start" : 699,
+          "end" : 699,
+          "residue" : "D"
+        }, {
+          "start" : 585,
+          "end" : 585,
+          "residue" : "G"
+        }, {
+          "start" : 457,
+          "end" : 457,
+          "residue" : "G"
+        }, {
+          "start" : 671,
+          "end" : 671,
+          "residue" : "G"
+        }, {
+          "start" : 567,
+          "end" : 567,
+          "residue" : "W"
+        }, {
+          "start" : 556,
+          "end" : 556,
+          "residue" : "F"
+        }, {
+          "start" : 561,
+          "end" : 561,
+          "residue" : "D"
+        }, {
+          "start" : 514,
+          "end" : 514,
+          "residue" : "V"
+        }, {
+          "start" : 434,
+          "end" : 434,
+          "residue" : "T"
+        }, {
+          "start" : 600,
+          "end" : 600,
+          "residue" : "V"
+        }, {
+          "start" : 539,
+          "end" : 539,
+          "residue" : "H"
+        }, {
+          "start" : 568,
+          "end" : 568,
+          "residue" : "E"
+        }, {
+          "start" : 659,
+          "end" : 659,
+          "residue" : "D"
+        }, {
+          "start" : 458,
+          "end" : 458,
+          "residue" : "H"
+        }, {
+          "start" : 692,
+          "end" : 692,
+          "residue" : "D"
+        }, {
+          "start" : 698,
+          "end" : 698,
+          "residue" : "W"
+        }, {
+          "start" : 647,
+          "end" : 647,
+          "residue" : "V"
+        }, {
+          "start" : 525,
+          "end" : 525,
+          "residue" : "W"
+        }, {
+          "start" : 526,
+          "end" : 526,
+          "residue" : "N"
+        }, {
+          "start" : 519,
+          "end" : 519,
+          "residue" : "D"
+        }, {
+          "start" : 499,
+          "end" : 499,
+          "residue" : "H"
+        }, {
+          "start" : 445,
+          "end" : 445,
+          "residue" : "D"
+        }, {
+          "start" : 475,
+          "end" : 475,
+          "residue" : "S"
+        }, {
+          "start" : 438,
+          "end" : 438,
+          "residue" : "D"
+        }, {
+          "start" : 486,
+          "end" : 486,
+          "residue" : "S"
+        }, {
+          "start" : 444,
+          "end" : 444,
+          "residue" : "W"
+        }, {
+          "start" : 652,
+          "end" : 652,
+          "residue" : "D"
+        }, {
+          "start" : 418,
+          "end" : 418,
+          "residue" : "H"
+        }, {
+          "start" : 658,
+          "end" : 658,
+          "residue" : "W"
+        }, {
+          "start" : 485,
+          "end" : 485,
+          "residue" : "W"
+        }, {
+          "start" : 479,
+          "end" : 479,
+          "residue" : "D"
+        }, {
+          "start" : 672,
+          "end" : 672,
+          "residue" : "H"
+        }, {
+          "start" : 622,
+          "end" : 622,
+          "residue" : "G"
+        }, {
+          "start" : 688,
+          "end" : 688,
+          "residue" : "S"
+        } ]
+      } ],
+      "evalue" : 1.82304E-63,
+      "score" : 211.039,
+      "location-fragments" : [ {
+        "start" : 417,
+        "end" : 699,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00200"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 175,
+      "end" : 203,
+      "location-fragments" : [ {
+        "start" : 175,
+        "end" : 203,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "SSF81383",
+      "name" : "F-box domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036047",
+        "name" : "F-box-like_dom_sf",
+        "description" : "F-box-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 329,
+      "end" : 408,
+      "hmmLength" : 100,
+      "location-fragments" : [ {
+        "start" : 329,
+        "end" : 408,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.58E-17,
+    "model-ac" : "0041352"
+  }, {
+    "signature" : {
+      "accession" : "PS00678",
+      "name" : "WD_REPEATS_1",
+      "description" : "Trp-Asp (WD) repeats signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR019775",
+        "name" : "WD40_repeat_CS",
+        "description" : "WD40 repeat, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 432,
+      "end" : 446,
+      "level" : "STRONG",
+      "cigarAlignment" : "4M2I1M1I7M",
+      "alignment" : "VATGslDrTIKIWDA",
+      "location-fragments" : [ {
+        "start" : 432,
+        "end" : 446,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00678"
+  }, {
+    "signature" : {
+      "accession" : "PTHR44156",
+      "name" : "FAMILY NOT NAMED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 303,
+      "end" : 701,
+      "hmmStart" : 21,
+      "hmmEnd" : 418,
+      "hmmLength" : 473,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 286,
+      "envelopeEnd" : 702,
+      "location-fragments" : [ {
+        "start" : 303,
+        "end" : 701,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.8E-90,
+    "familyName" : "Not available",
+    "score" : 314.4,
+    "model-ac" : "PTHR44156"
+  }, {
+    "signature" : {
+      "accession" : "PS00678",
+      "name" : "WD_REPEATS_1",
+      "description" : "Trp-Asp (WD) repeats signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR019775",
+        "name" : "WD40_repeat_CS",
+        "description" : "WD40 repeat, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 555,
+      "end" : 569,
+      "level" : "STRONG",
+      "cigarAlignment" : "4M2I1M1I7M",
+      "alignment" : "AFTGsgDrTVRVWEV",
+      "location-fragments" : [ {
+        "start" : 555,
+        "end" : 569,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00678"
+  }, {
+    "signature" : {
+      "accession" : "PF00400",
+      "name" : "WD40",
+      "description" : "WD domain, G-beta repeat",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 492,
+      "end" : 526,
+      "hmmStart" : 3,
+      "hmmEnd" : 38,
+      "hmmLength" : 38,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 4.7E-5,
+      "score" : 24.1,
+      "envelopeStart" : 490,
+      "envelopeEnd" : 526,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 492,
+        "end" : 526,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 614,
+      "end" : 659,
+      "hmmStart" : 1,
+      "hmmEnd" : 38,
+      "hmmLength" : 38,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.032,
+      "score" : 15.1,
+      "envelopeStart" : 614,
+      "envelopeEnd" : 659,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 614,
+        "end" : 659,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 663,
+      "end" : 699,
+      "hmmStart" : 1,
+      "hmmEnd" : 38,
+      "hmmLength" : 38,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 9.8E-6,
+      "score" : 26.2,
+      "envelopeStart" : 663,
+      "envelopeEnd" : 699,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 663,
+        "end" : 699,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 531,
+      "end" : 567,
+      "hmmStart" : 2,
+      "hmmEnd" : 37,
+      "hmmLength" : 38,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 9.2E-4,
+      "score" : 20.0,
+      "envelopeStart" : 529,
+      "envelopeEnd" : 568,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 531,
+        "end" : 567,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 413,
+      "end" : 445,
+      "hmmStart" : 5,
+      "hmmEnd" : 38,
+      "hmmLength" : 38,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.1E-4,
+      "score" : 23.0,
+      "envelopeStart" : 408,
+      "envelopeEnd" : 445,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 413,
+        "end" : 445,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 450,
+      "end" : 486,
+      "hmmStart" : 2,
+      "hmmEnd" : 38,
+      "hmmLength" : 38,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 5.7E-6,
+      "score" : 27.0,
+      "envelopeStart" : 449,
+      "envelopeEnd" : 486,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 450,
+        "end" : 486,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.9E-37,
+    "score" : 124.6,
+    "model-ac" : "PF00400"
+  }, {
+    "signature" : {
+      "accession" : "PS50082",
+      "name" : "WD_REPEATS_2",
+      "description" : "Trp-Asp (WD) repeats profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 669,
+      "end" : 702,
+      "score" : 12.981,
+      "alignment" : "LKGHKDNVNCIHVDST--RIISVSYDQRVRVWDFNS------",
+      "location-fragments" : [ {
+        "start" : 669,
+        "end" : 702,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50082"
+  }, {
+    "signature" : {
+      "accession" : "PS50082",
+      "name" : "WD_REPEATS_2",
+      "description" : "Trp-Asp (WD) repeats profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 455,
+      "end" : 495,
+      "score" : 13.382,
+      "alignment" : "FQGHTRGIWSLRFLSS-SILISGSYDKTIRLWSLRTNMCVRI",
+      "location-fragments" : [ {
+        "start" : 455,
+        "end" : 495,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50082"
+  }, {
+    "signature" : {
+      "accession" : "PR00320",
+      "name" : "GPROTEINBRPT",
+      "description" : "G protein beta WD-40 repeat signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR020472",
+        "name" : "G-protein_beta_WD-40_rep",
+        "description" : "G-protein beta WD-40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 432,
+      "end" : 446,
+      "pvalue" : 4.3E-5,
+      "score" : 38.55,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 432,
+        "end" : 446,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 473,
+      "end" : 487,
+      "pvalue" : 9.13E-6,
+      "score" : 42.28,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 473,
+        "end" : 487,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 513,
+      "end" : 527,
+      "pvalue" : 4.41E-5,
+      "score" : 37.98,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 513,
+        "end" : 527,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.3E-8,
+    "graphscan" : "III",
+    "model-ac" : "PR00320"
+  }, {
+    "signature" : {
+      "accession" : "PS50082",
+      "name" : "WD_REPEATS_2",
+      "description" : "Trp-Asp (WD) repeats profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 415,
+      "end" : 454,
+      "score" : 13.215,
+      "alignment" : "MSGHTHNVLSVCAYKN--YVATGSLDRTIKIWDAKSGTLLLT",
+      "location-fragments" : [ {
+        "start" : 415,
+        "end" : 454,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50082"
+  }, {
+    "signature" : {
+      "accession" : "SM00320",
+      "name" : "WD40_4",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "7.1"
+      },
+      "entry" : {
+        "accession" : "IPR001680",
+        "name" : "WD40_repeat",
+        "description" : "WD40 repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 662,
+      "end" : 699,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.3E-7,
+      "score" : 41.2,
+      "location-fragments" : [ {
+        "start" : 662,
+        "end" : 699,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 571,
+      "end" : 610,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 86.0,
+      "score" : 4.8,
+      "location-fragments" : [ {
+        "start" : 571,
+        "end" : 610,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 448,
+      "end" : 486,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.8E-9,
+      "score" : 46.1,
+      "location-fragments" : [ {
+        "start" : 448,
+        "end" : 486,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 529,
+      "end" : 568,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.0E-6,
+      "score" : 38.3,
+      "location-fragments" : [ {
+        "start" : 529,
+        "end" : 568,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 408,
+      "end" : 445,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.4E-5,
+      "score" : 34.6,
+      "location-fragments" : [ {
+        "start" : 408,
+        "end" : 445,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 613,
+      "end" : 659,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.076,
+      "score" : 22.1,
+      "location-fragments" : [ {
+        "start" : 613,
+        "end" : 659,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 489,
+      "end" : 526,
+      "hmmStart" : 1,
+      "hmmEnd" : 46,
+      "hmmLength" : 46,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.6E-4,
+      "score" : 31.0,
+      "location-fragments" : [ {
+        "start" : 489,
+        "end" : 526,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.7E-61,
+    "score" : 218.1,
+    "model-ac" : "SM00320"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.130.10.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR015943",
+        "name" : "WD40/YVTN_repeat-like_dom_sf",
+        "description" : "WD40/YVTN repeat-like-containing domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 405,
+      "end" : 508,
+      "hmmStart" : 208,
+      "hmmEnd" : 303,
+      "hmmLength" : 392,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 8.4E-28,
+      "score" : 99.0,
+      "envelopeStart" : 401,
+      "envelopeEnd" : 508,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 405,
+        "end" : 508,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.4E-70,
+    "score" : 237.5,
+    "model-ac" : "1r5mA00"
+  }, {
+    "signature" : {
+      "accession" : "PS50294",
+      "name" : "WD_REPEATS_REGION",
+      "description" : "Trp-Asp (WD) repeats circular profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR017986",
+        "name" : "WD40_repeat_dom",
+        "description" : "WD40-repeat-containing domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 415,
+      "end" : 702,
+      "score" : 55.393,
+      "alignment" : "MSGHTHNVLSVCAYKN--YVATGSLDRTIKIWDAKSGTLLLTFQGHTRGIWSLRFLSS-SILISGSYDKTIRLWSLRTNMCVRILISHDGPVWAIERKGD--FLVSGSSDKTAKIWNIRQCKLLFSLMGHNGCVFCVDLDNECKKAFTGSGDRTVRVWEVSSGVCLLSfniGLLSGSTVTAVSFDQG---HVVVGSGQLVSLWNLETGACVNEFKGHKGRIESIKLKFImvngkkeAGLIVSAGKDGLIKYWDIEQGSCIQTLKGHKDNVNCIHVDST--RIISVSYDQRVRVWDFNS------",
+      "location-fragments" : [ {
+        "start" : 415,
+        "end" : 702,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50294"
+  } ],
+  "xref" : [ {
+    "name" : "Pocillopora_damicornis_A0A3M6TPZ0_9CNID",
+    "id" : "Pocillopora_damicornis_A0A3M6TPZ0_9CNID"
+  } ]
+} ]
+}

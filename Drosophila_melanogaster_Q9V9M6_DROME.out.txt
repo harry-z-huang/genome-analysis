@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="0b580da9cc43d2dc40169fd78b087e9e">MSFYTSKTDVTSILKTFSGVKRNQANAVAINKVRFSTPKEKGLAESVRVALEERNFHLVKEFTYFLREAELSDDEVVIIIKDAKRIVHNLTPEFVTVVEALLSLNWKKRSSEIIEAYTEFCIELMVTHNRYLPIGVSKLIVHWIPGDMDESDWVHGCPSEHVRNELKPIHKVLDRILTAVPMAFDIIIDAISAKFPYFKKPYHVTAGYLYNVLWLLEYKPIFEELVFQLVLQKLLLLDVNAPKDEIELEMNDEEEKVEADTLFEIDDVCAENVPKSEKSVSHPVGKTLDVCLFLLYKFFDGKCRLNENSSEEQRRTANRLFKMLLYLFDEVLLPSHNTHHVQFILFYATSLRSVYSEAFLDSLWTKVQNPNVSAVIRHAAVGYMASFLSRARFLPLSTVTFYLKELTRWAHTYIDDSDAYKQNCSLKANLVFYSVCQAVFYLIAFRAKDLTASSKDLLFLQSLQLSRLAMCHLNPLRYCLAPVATAFAGVTRTYQLAYCHTVLERNARRKLATVYGHEKCMPDETLESFFPFDPYVLKLSKKYIETNYMVYQSNDTDEYVYGSNKYGHSRKRGDSEMLEEDEFLIVDKRPKNFDLSKSQEFDKQFHFGSSP</sequence>
+    <xref id="Drosophila_melanogaster_Q9V9M6_DROME" name="Drosophila_melanogaster_Q9V9M6_DROME LD10456p"/>
+    <matches>
+      <hmmer3-match evalue="6.0E-130" score="434.4">
+        <signature ac="PF05327" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RRN3">
+          <entry ac="IPR007991" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RNA_pol_I_trans_ini_fac_RRN3" type="FAMILY"/>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF05327</model-ac>
+        <locations>
+          <hmmer3-location env-end="556" env-start="36" post-processed="true" score="433.8" evalue="9.3E-130" hmm-start="5" hmm-end="554" hmm-length="557" hmm-bounds="INCOMPLETE" start="40" end="553">
+            <location-fragments>
+              <hmmer3-location-fragment start="40" end="553" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="9.8E-125" familyName="Not available" score="429.1">
+        <signature ac="PTHR12790" name="TRANSCRIPTION INITIATION FACTOR IA  RRN3">
+          <entry ac="IPR007991" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RNA_pol_I_trans_ini_fac_RRN3" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12790</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="611" hmm-start="23" hmm-end="605" hmm-length="622" hmm-bounds="INCOMPLETE" start="23" end="600">
+            <location-fragments>
+              <panther-location-fragment start="23" end="600" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="9.8E-125" familyName="Not available" score="429.1">
+        <signature ac="PTHR12790:SF0" name="RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12790:SF0</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="611" hmm-start="23" hmm-end="605" hmm-length="622" hmm-bounds="INCOMPLETE" start="23" end="600">
+            <location-fragments>
+              <panther-location-fragment start="23" end="600" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="430" end="447">
+            <location-fragments>
+              <phobius-location-fragment start="430" end="447" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="NON_CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region." name="Non cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>NON_CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="1" end="429">
+            <location-fragments>
+              <phobius-location-fragment start="1" end="429" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm." name="Cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="448" end="611">
+            <location-fragments>
+              <phobius-location-fragment start="448" end="611" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+    </matches>
+  </protein>
+</protein-matches>

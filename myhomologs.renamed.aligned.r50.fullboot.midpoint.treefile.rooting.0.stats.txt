@@ -1,0 +1,44 @@
+Statistics for: myhomologs.renamed.aligned.r50.fullboot.midpoint.treefile
+
+Reconciliation Information
+- Duplications: 10
+- Co-Divergences: 0
+- Transfers: 0
+- Losses: 15
+- Number of Temporally Feasible Optimal Solutions: N/A
+
+
+Tree Without Losses
+- Total nodes: 27
+- Internal nodes: 13
+- Leaf nodes: 14
+- Polytomies: 0
+- Size of largest polytomy: 0
+- Height: 9
+
+Tree With Losses
+- Total nodes: 57
+- Internal nodes: 28
+- Leaf nodes: 29
+- Size of largest polytomy: 0
+- Height: 10
+
+Edge weight range in the input gene tree: [6.0, 100.0]
+
+
+This gene tree is reconciled.
+ - In GUI mode, the pruned species tree can be viewed
+   by clicking "Show Species Tree" in the
+   Reconcile Panel.
+ - From the command line, the pruned species tree can
+   be saved with the option --stpruned.
+
+Statistics for: species.tre
+
+- Total nodes: 9
+- Internal nodes: 4
+- Leaf nodes: 5
+- Polytomies: 0
+- Size of largest polytomy: 0
+- Height: 3
+

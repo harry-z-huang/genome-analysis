@@ -1,0 +1,22 @@
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	CDD	cd00054	EGF_CA	132	162	2.08083E-6	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	3	13	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SMART	SM00231	disc_4	164	323	2.1E-15	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Pfam	PF00754	F5/8 type C domain	182	320	1.5E-21	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSitePatterns	PS00022	EGF-like domain signature 1.	151	162	-	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	CDD	cd00057	FA58C	169	322	3.85542E-39	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	21	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSiteProfiles	PS50026	EGF-like domain profile.	125	163	19.649	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSiteProfiles	PS50022	Coagulation factors 5/8 type C domain (FA58C) profile.	165	323	32.451	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	PANTHER	PTHR24543	MULTICOPPER OXIDASE-RELATED	85	323	2.7E-42	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Gene3D	G3DSA:2.10.25.10	Laminin	126	161	6.2E-11	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	2	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Pfam	PF00008	EGF-like domain	129	161	1.6E-5	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	14	21	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SMART	SM00181	egf_5	128	163	7.2E-4	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SUPERFAMILY	SSF57196	EGF/Laminin	128	165	4.43E-10	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSitePatterns	PS01286	Coagulation factors 5/8 type C domain (FA58C) signature 2.	307	323	-	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Gene3D	G3DSA:2.60.120.260	-	162	327	1.7E-44	T	08-11-2020	IPR008979	Galactose-binding-like domain superfamily		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	21	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SUPERFAMILY	SSF49785	Galactose-binding domain-like	165	324	1.02E-38	T	08-11-2020	IPR008979	Galactose-binding-like domain superfamily		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSitePatterns	PS01285	Coagulation factors 5/8 type C domain (FA58C) signature 1.	211	240	-	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	22	327	-	T	08-11-2020

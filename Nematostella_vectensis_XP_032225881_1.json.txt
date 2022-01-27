@@ -1,0 +1,184 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MSIMSGESKEPEDKSEKTPCSDLIRGVESDGEDDVVESKGSSPGLVGVLLMSQALENYHKGKRGDYDFLVYKLGDPYLKPLYLQRYLKALKGCVSLLNKSCETLVGTVLRVDWASSDHDTVQEFIEFLTVLVSAQTYYLRACLKMLIKHFMPNVPKGKTAEDLIKEEQEQAFANTHDALQAVLDVVPMTPKFLLPVLSECFPYIKRHQVFQTSYVSNTLQVTWYIPTLRGEILELVINHITKIDVEVPKHELEDRQTEEDDATQFEVDLELNPESPDKASEESEMAAMLDSLMDILFKYMRDFCFPANELSLDSSTELFGYLVKSFEKVILPTHACCHIQFVMFYICSLDEVFTNSLLEVCWKKVANPGEAGILRQASAAYMASLVARAKYISISTVKTCLELLTHWVHCYIDDHDEACLGADVNKHGPFYSVCQSIFYIFVFRHRQCLETPEGQKFVSKLNFQRIVTCKLNPLKVCLPTVVDLFAQVTKLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSPGFALSPNSAIELEHRLQRRTAR",
+  "md5" : "e95bd0fc5d1ca819f6ebbc06894fc36d",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR12790:SF0",
+      "name" : "RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 610,
+      "hmmStart" : 1,
+      "hmmEnd" : 621,
+      "hmmLength" : 622,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 611,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 610,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 717.2,
+    "model-ac" : "PTHR12790:SF0"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790",
+      "name" : "TRANSCRIPTION INITIATION FACTOR IA  RRN3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 610,
+      "hmmStart" : 1,
+      "hmmEnd" : 621,
+      "hmmLength" : 622,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 611,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 610,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 717.2,
+    "model-ac" : "PTHR12790"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 41,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 41,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 567,
+      "end" : 603,
+      "location-fragments" : [ {
+        "start" : 567,
+        "end" : 603,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 37,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 37,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polyampholyte"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF05327",
+      "name" : "RRN3",
+      "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 52,
+      "end" : 558,
+      "hmmStart" : 13,
+      "hmmEnd" : 555,
+      "hmmLength" : 557,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 466.1,
+      "envelopeStart" : 48,
+      "envelopeEnd" : 560,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 52,
+        "end" : 558,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 467.2,
+    "model-ac" : "PF05327"
+  } ],
+  "xref" : [ {
+    "name" : "Nematostella_vectensis_XP_032225881.1",
+    "id" : "Nematostella_vectensis_XP_032225881.1"
+  } ]
+} ]
+}

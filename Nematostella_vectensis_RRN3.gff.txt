@@ -1,0 +1,27 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Nematostella_vectensis_RRN3 1 151
+Nematostella_vectensis_RRN3	.	polypeptide	1	151	.	+	.	ID=Nematostella_vectensis_RRN3;md5=f780d5a3d5e314c4316213a6ba2be84c
+Nematostella_vectensis_RRN3	MobiDBLite	protein_match	85	129	.	+	.	date=08-11-2020;Target=Nematostella_vectensis_RRN3 85 129;ID=match$1_85_129;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Nematostella_vectensis_RRN3	PANTHER	protein_match	11	136	6.9E-30	+	.	date=08-11-2020;Target=Nematostella_vectensis_RRN3 11 136;ID=match$2_11_136;Name=PTHR12790;status=T;Dbxref="InterPro:IPR007991"
+Nematostella_vectensis_RRN3	Pfam	protein_match	11	84	2.3E-17	+	.	date=08-11-2020;Target=Nematostella_vectensis_RRN3 11 84;ID=match$3_11_84;signature_desc=RNA polymerase I specific transcription initiation factor RRN3;Name=PF05327;status=T;Dbxref="InterPro:IPR007991"
+Nematostella_vectensis_RRN3	PANTHER	protein_match	11	136	6.9E-30	+	.	date=08-11-2020;Target=Nematostella_vectensis_RRN3 11 136;ID=match$4_11_136;Name=PTHR12790:SF0;status=T
+##FASTA
+>Nematostella_vectensis_RRN3
+MLDNIQHYLFFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFF
+PFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPT
+PDIAMSVSPGFALSPNSAIELEHRLQRRTAR
+>match$1_85_129
+GEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSP
+>match$2_11_136
+FSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRS
+SKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSPG
+FALSPN
+>match$3_11_84
+FSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRS
+SKYVKPHYQEWKGV
+>match$4_11_136
+FSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRS
+SKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSPG
+FALSPN

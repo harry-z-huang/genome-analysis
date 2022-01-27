@@ -1,0 +1,140 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MLDNIQHYLFFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSPGFALSPNSAIELEHRLQRRTAR",
+  "md5" : "f780d5a3d5e314c4316213a6ba2be84c",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 85,
+      "end" : 129,
+      "location-fragments" : [ {
+        "start" : 85,
+        "end" : 129,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790",
+      "name" : "TRANSCRIPTION INITIATION FACTOR IA  RRN3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 11,
+      "end" : 136,
+      "hmmStart" : 484,
+      "hmmEnd" : 621,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 9,
+      "envelopeEnd" : 137,
+      "location-fragments" : [ {
+        "start" : 11,
+        "end" : 136,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.9E-30,
+    "familyName" : "Not available",
+    "score" : 115.8,
+    "model-ac" : "PTHR12790"
+  }, {
+    "signature" : {
+      "accession" : "PF05327",
+      "name" : "RRN3",
+      "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 11,
+      "end" : 84,
+      "hmmStart" : 485,
+      "hmmEnd" : 555,
+      "hmmLength" : 557,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.3E-17,
+      "score" : 62.7,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 86,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 11,
+        "end" : 84,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-17,
+    "score" : 62.7,
+    "model-ac" : "PF05327"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790:SF0",
+      "name" : "RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 11,
+      "end" : 136,
+      "hmmStart" : 484,
+      "hmmEnd" : 621,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 9,
+      "envelopeEnd" : 137,
+      "location-fragments" : [ {
+        "start" : 11,
+        "end" : 136,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.9E-30,
+    "familyName" : "Not available",
+    "score" : 115.8,
+    "model-ac" : "PTHR12790:SF0"
+  } ],
+  "xref" : [ {
+    "name" : "Nematostella_vectensis_RRN3",
+    "id" : "Nematostella_vectensis_RRN3"
+  } ]
+} ]
+}

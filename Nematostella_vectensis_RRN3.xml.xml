@@ -1,0 +1,62 @@
+<?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="f780d5a3d5e314c4316213a6ba2be84c">MLDNIQHYLFFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSPGFALSPNSAIELEHRLQRRTAR</sequence>
+    <xref id="Nematostella_vectensis_RRN3" name="Nematostella_vectensis_RRN3"/>
+    <matches>
+      <hmmer3-match evalue="2.3E-17" score="62.7">
+        <signature ac="PF05327" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RRN3">
+          <entry ac="IPR007991" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RNA_pol_I_trans_ini_fac_RRN3" type="FAMILY"/>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF05327</model-ac>
+        <locations>
+          <hmmer3-location env-end="86" env-start="9" post-processed="true" score="62.7" evalue="2.3E-17" hmm-start="485" hmm-end="555" hmm-length="557" hmm-bounds="INCOMPLETE" start="11" end="84">
+            <location-fragments>
+              <hmmer3-location-fragment start="11" end="84" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="85" end="129">
+            <location-fragments>
+              <mobidblite-location-fragment start="85" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="6.9E-30" familyName="Not available" score="115.8">
+        <signature ac="PTHR12790" name="TRANSCRIPTION INITIATION FACTOR IA  RRN3">
+          <entry ac="IPR007991" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RNA_pol_I_trans_ini_fac_RRN3" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12790</model-ac>
+        <locations>
+          <panther-location env-start="9" env-end="137" hmm-start="484" hmm-end="621" hmm-length="622" hmm-bounds="INCOMPLETE" start="11" end="136">
+            <location-fragments>
+              <panther-location-fragment start="11" end="136" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="6.9E-30" familyName="Not available" score="115.8">
+        <signature ac="PTHR12790:SF0" name="RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12790:SF0</model-ac>
+        <locations>
+          <panther-location env-start="9" env-end="137" hmm-start="484" hmm-end="621" hmm-length="622" hmm-bounds="INCOMPLETE" start="11" end="136">
+            <location-fragments>
+              <panther-location-fragment start="11" end="136" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

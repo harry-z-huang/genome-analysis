@@ -1,0 +1,5 @@
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	MobiDBLite	mobidb-lite	consensus disorder prediction	624	651	-	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	MobiDBLite	mobidb-lite	consensus disorder prediction	624	643	-	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	55	585	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	18	642	0.0	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	18	642	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		

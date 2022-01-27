@@ -1,0 +1,181 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MSFYTSKTDVTSILKTFSGVKRNQANAVAINKVRFSTPKEKGLAESVRVALEERNFHLVKEFTYFLREAELSDDEVVIIIKDAKRIVHNLTPEFVTVVEALLSLNWKKRSSEIIEAYTEFCIELMVTHNRYLPIGVSKLIVHWIPGDMDESDWVHGCPSEHVRNELKPIHKVLDRILTAVPMAFDIIIDAISAKFPYFKKPYHVTAGYLYNVLWLLEYKPIFEELVFQLVLQKLLLLDVNAPKDEIELEMNDEEEKVEADTLFEIDDVCAENVPKSEKSVSHPVGKTLDVCLFLLYKFFDGKCRLNENSSEEQRRTANRLFKMLLYLFDEVLLPSHNTHHVQFILFYATSLRSVYSEAFLDSLWTKVQNPNVSAVIRHAAVGYMASFLSRARFLPLSTVTFYLKELTRWAHTYIDDSDAYKQNCSLKANLVFYSVCQAVFYLIAFRAKDLTASSKDLLFLQSLQLSRLAMCHLNPLRYCLAPVATAFAGVTRTYQLAYCHTVLERNARRKLATVYGHEKCMPDETLESFFPFDPYVLKLSKKYIETNYMVYQSNDTDEYVYGSNKYGHSRKRGDSEMLEEDEFLIVDKRPKNFDLSKSQEFDKQFHFGSSP",
+  "md5" : "0b580da9cc43d2dc40169fd78b087e9e",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 430,
+      "end" : 447,
+      "location-fragments" : [ {
+        "start" : 430,
+        "end" : 447,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790",
+      "name" : "TRANSCRIPTION INITIATION FACTOR IA  RRN3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 23,
+      "end" : 600,
+      "hmmStart" : 23,
+      "hmmEnd" : 605,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 611,
+      "location-fragments" : [ {
+        "start" : 23,
+        "end" : 600,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.8E-125,
+    "familyName" : "Not available",
+    "score" : 429.1,
+    "model-ac" : "PTHR12790"
+  }, {
+    "signature" : {
+      "accession" : "PF05327",
+      "name" : "RRN3",
+      "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 40,
+      "end" : 553,
+      "hmmStart" : 5,
+      "hmmEnd" : 554,
+      "hmmLength" : 557,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 9.3E-130,
+      "score" : 433.8,
+      "envelopeStart" : 36,
+      "envelopeEnd" : 556,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 40,
+        "end" : 553,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.0E-130,
+    "score" : 434.4,
+    "model-ac" : "PF05327"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 429,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 429,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790:SF0",
+      "name" : "RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 23,
+      "end" : 600,
+      "hmmStart" : 23,
+      "hmmEnd" : 605,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 611,
+      "location-fragments" : [ {
+        "start" : 23,
+        "end" : 600,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.8E-125,
+    "familyName" : "Not available",
+    "score" : 429.1,
+    "model-ac" : "PTHR12790:SF0"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 448,
+      "end" : 611,
+      "location-fragments" : [ {
+        "start" : 448,
+        "end" : 611,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  } ],
+  "xref" : [ {
+    "name" : "Drosophila_melanogaster_Q9V9M6_DROME LD10456p",
+    "id" : "Drosophila_melanogaster_Q9V9M6_DROME"
+  } ]
+} ]
+}

@@ -1,0 +1,6 @@
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	430	447	-	T	08-11-2020
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	23	600	9.8E-125	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	40	553	9.3E-130	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	429	-	T	08-11-2020
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	23	600	9.8E-125	T	08-11-2020
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	448	611	-	T	08-11-2020

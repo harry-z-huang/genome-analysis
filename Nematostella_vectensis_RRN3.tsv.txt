@@ -1,0 +1,4 @@
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	MobiDBLite	mobidb-lite	consensus disorder prediction	85	129	-	T	08-11-2020
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	11	136	6.9E-30	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	11	84	2.3E-17	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	11	136	6.9E-30	T	08-11-2020

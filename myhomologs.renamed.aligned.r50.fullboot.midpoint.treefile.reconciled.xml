@@ -1,0 +1,493 @@
+<recPhylo>
+  <spTree>
+    <phylogeny>
+      <clade>
+        <name>Eumetazoa</name>
+        <clade>
+          <name>Bilateria</name>
+          <clade>
+            <name>Deuterostomia</name>
+            <clade>
+              <name>Strongylocentrotus_purpuratus</name>
+            </clade>
+            <clade>
+              <name>Homo_sapiens</name>
+            </clade>
+          </clade>
+          <clade>
+            <name>Drosophila_melanogaster</name>
+          </clade>
+        </clade>
+        <clade>
+          <name>Cnidaria</name>
+          <clade>
+            <name>Pocillopora_damicornis</name>
+          </clade>
+          <clade>
+            <name>Nematostella_vectensis</name>
+          </clade>
+        </clade>
+      </clade>
+    </phylogeny>
+  </spTree>
+  <recGeneTree>
+    <phylogeny rooted="true">
+      <clade>
+        <name>n72</name>
+        <confidence>1.0</confidence>
+        <branch_length>1.0</branch_length>
+        <eventsRec>
+          <duplication speciesLocation="Eumetazoa"></duplication>
+        </eventsRec>
+        <clade>
+          <name>n50</name>
+          <confidence>1.0</confidence>
+          <branch_length>0.0467927693</branch_length>
+          <eventsRec>
+            <speciation speciesLocation="Eumetazoa"></speciation>
+          </eventsRec>
+          <clade>
+            <name>r29</name>
+            <confidence>1.0</confidence>
+            <branch_length>1.0</branch_length>
+            <eventsRec>
+              <speciation speciesLocation="Cnidaria"></speciation>
+            </eventsRec>
+            <clade>
+              <name>n48</name>
+              <confidence>1.0</confidence>
+              <branch_length>0.3747255495</branch_length>
+              <eventsRec>
+                <duplication speciesLocation="Pocillopora_damicornis"></duplication>
+              </eventsRec>
+              <clade>
+                <name>Pocillopora_damicornis_A0A3M6TV88_9CNID</name>
+                <confidence>1.0</confidence>
+                <branch_length>2.3213970198</branch_length>
+                <eventsRec>
+                  <leaf speciesLocation="Pocillopora_damicornis" geneName="Pocillopora_damicornis_A0A3M6TV88_9CNID"></leaf>
+                </eventsRec>
+              </clade>
+              <clade>
+                <name>Pocillopora_damicornis_A0A3M6TPZ0_9CNID</name>
+                <confidence>1.0</confidence>
+                <branch_length>3.1395868656</branch_length>
+                <eventsRec>
+                  <leaf speciesLocation="Pocillopora_damicornis" geneName="Pocillopora_damicornis_A0A3M6TPZ0_9CNID"></leaf>
+                </eventsRec>
+              </clade>
+            </clade>
+            <clade>
+              <name>Nematostella_vectensis*LOST</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <loss speciesLocation="Nematostella_vectensis"></loss>
+              </eventsRec>
+            </clade>
+          </clade>
+          <clade>
+            <name>r31</name>
+            <confidence>1.0</confidence>
+            <branch_length>1.0</branch_length>
+            <eventsRec>
+              <speciation speciesLocation="Bilateria"></speciation>
+            </eventsRec>
+            <clade>
+              <name>Drosophila_melanogaster_Q9V9M6_DROME</name>
+              <confidence>1.0</confidence>
+              <branch_length>0.8045580678</branch_length>
+              <eventsRec>
+                <leaf speciesLocation="Drosophila_melanogaster" geneName="Drosophila_melanogaster_Q9V9M6_DROME"></leaf>
+              </eventsRec>
+            </clade>
+            <clade>
+              <name>Deuterostomia*LOST</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <loss speciesLocation="Deuterostomia"></loss>
+              </eventsRec>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>n71</name>
+          <confidence>1.0</confidence>
+          <branch_length>0.1688268437</branch_length>
+          <eventsRec>
+            <duplication speciesLocation="Eumetazoa"></duplication>
+          </eventsRec>
+          <clade>
+            <name>n69</name>
+            <confidence>1.0</confidence>
+            <branch_length>0.0581801966</branch_length>
+            <eventsRec>
+              <duplication speciesLocation="Eumetazoa"></duplication>
+            </eventsRec>
+            <clade>
+              <name>n67</name>
+              <confidence>1.0</confidence>
+              <branch_length>0.0864411756</branch_length>
+              <eventsRec>
+                <duplication speciesLocation="Eumetazoa"></duplication>
+              </eventsRec>
+              <clade>
+                <name>n63</name>
+                <confidence>1.0</confidence>
+                <branch_length>0.0525615493</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Eumetazoa"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>n61</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.2533883306</branch_length>
+                  <eventsRec>
+                    <duplication speciesLocation="Cnidaria"></duplication>
+                  </eventsRec>
+                  <clade>
+                    <name>n59</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.1492971996</branch_length>
+                    <eventsRec>
+                      <duplication speciesLocation="Cnidaria"></duplication>
+                    </eventsRec>
+                    <clade>
+                      <name>n53</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.5406720987</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Cnidaria"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>Pocillopora_damicornis_A0A3M6V5X9_9CNID</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>2.0862212459</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="Pocillopora_damicornis" geneName="Pocillopora_damicornis_A0A3M6V5X9_9CNID"></leaf>
+                        </eventsRec>
+                      </clade>
+                      <clade>
+                        <name>Nematostella_vectensis_XP_032239229.1</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>2.2517377903</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="Nematostella_vectensis" geneName="Nematostella_vectensis_XP_032239229.1"></leaf>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>r33</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Cnidaria"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>n58</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.2634049681</branch_length>
+                        <eventsRec>
+                          <duplication speciesLocation="Nematostella_vectensis"></duplication>
+                        </eventsRec>
+                        <clade>
+                          <name>n56</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0022334789</branch_length>
+                          <eventsRec>
+                            <duplication speciesLocation="Nematostella_vectensis"></duplication>
+                          </eventsRec>
+                          <clade>
+                            <name>Nematostella_vectensis_XP_032225881.1</name>
+                            <confidence>1.0</confidence>
+                            <branch_length>1e-06</branch_length>
+                            <eventsRec>
+                              <leaf speciesLocation="Nematostella_vectensis" geneName="Nematostella_vectensis_XP_032225881.1"></leaf>
+                            </eventsRec>
+                          </clade>
+                          <clade>
+                            <name>Nematostella_vectensis_XP_032221138.1</name>
+                            <confidence>1.0</confidence>
+                            <branch_length>0.0041674032</branch_length>
+                            <eventsRec>
+                              <leaf speciesLocation="Nematostella_vectensis" geneName="Nematostella_vectensis_XP_032221138.1"></leaf>
+                            </eventsRec>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>Nematostella_vectensis_RRN3</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0644240421</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="Nematostella_vectensis" geneName="Nematostella_vectensis_RRN3"></leaf>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>Pocillopora_damicornis*LOST</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>1.0</branch_length>
+                        <eventsRec>
+                          <loss speciesLocation="Pocillopora_damicornis"></loss>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>r35</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Cnidaria"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>Pocillopora_damicornis_A0A3M6TY46_9CNID</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.3919035652</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="Pocillopora_damicornis" geneName="Pocillopora_damicornis_A0A3M6TY46_9CNID"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>Nematostella_vectensis*LOST</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <loss speciesLocation="Nematostella_vectensis"></loss>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>r39</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Bilateria"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>r37</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Deuterostomia"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>Strongylocentrotus_purpuratus_W4XX55_STRPU</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.5174562603</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="Strongylocentrotus_purpuratus" geneName="Strongylocentrotus_purpuratus_W4XX55_STRPU"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>Homo_sapiens*LOST</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <loss speciesLocation="Homo_sapiens"></loss>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Drosophila_melanogaster*LOST</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <loss speciesLocation="Drosophila_melanogaster"></loss>
+                    </eventsRec>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <name>r45</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Eumetazoa"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>r43</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Bilateria"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>r41</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Deuterostomia"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>n66</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>2.3876788992</branch_length>
+                      <eventsRec>
+                        <duplication speciesLocation="Strongylocentrotus_purpuratus"></duplication>
+                      </eventsRec>
+                      <clade>
+                        <name>Strongylocentrotus_purpuratus_W4Y3R2_STRPU</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.2012970514</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="Strongylocentrotus_purpuratus" geneName="Strongylocentrotus_purpuratus_W4Y3R2_STRPU"></leaf>
+                        </eventsRec>
+                      </clade>
+                      <clade>
+                        <name>Strongylocentrotus_purpuratus_W4XMK7_STRPU</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0327313465</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="Strongylocentrotus_purpuratus" geneName="Strongylocentrotus_purpuratus_W4XMK7_STRPU"></leaf>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Homo_sapiens*LOST</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <loss speciesLocation="Homo_sapiens"></loss>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Drosophila_melanogaster*LOST</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <loss speciesLocation="Drosophila_melanogaster"></loss>
+                    </eventsRec>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Cnidaria*LOST</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <loss speciesLocation="Cnidaria"></loss>
+                  </eventsRec>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>r51</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <speciation speciesLocation="Eumetazoa"></speciation>
+              </eventsRec>
+              <clade>
+                <name>r49</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Bilateria"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>r47</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Deuterostomia"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>Homo_sapiens_Q9NYV6_RRN3</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.4189642208</branch_length>
+                    <eventsRec>
+                      <leaf speciesLocation="Homo_sapiens" geneName="Homo_sapiens_Q9NYV6_RRN3"></leaf>
+                    </eventsRec>
+                  </clade>
+                  <clade>
+                    <name>Strongylocentrotus_purpuratus*LOST</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <loss speciesLocation="Strongylocentrotus_purpuratus"></loss>
+                    </eventsRec>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Drosophila_melanogaster*LOST</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <loss speciesLocation="Drosophila_melanogaster"></loss>
+                  </eventsRec>
+                </clade>
+              </clade>
+              <clade>
+                <name>Cnidaria*LOST</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <loss speciesLocation="Cnidaria"></loss>
+                </eventsRec>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>r57</name>
+            <confidence>1.0</confidence>
+            <branch_length>1.0</branch_length>
+            <eventsRec>
+              <speciation speciesLocation="Eumetazoa"></speciation>
+            </eventsRec>
+            <clade>
+              <name>r55</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <speciation speciesLocation="Bilateria"></speciation>
+              </eventsRec>
+              <clade>
+                <name>r53</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Deuterostomia"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>Strongylocentrotus_purpuratus_W4Z7T7_STRPU</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>2.4440815315</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="Strongylocentrotus_purpuratus" geneName="Strongylocentrotus_purpuratus_W4Z7T7_STRPU"></leaf>
+                  </eventsRec>
+                </clade>
+                <clade>
+                  <name>Homo_sapiens*LOST</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <loss speciesLocation="Homo_sapiens"></loss>
+                  </eventsRec>
+                </clade>
+              </clade>
+              <clade>
+                <name>Drosophila_melanogaster*LOST</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <loss speciesLocation="Drosophila_melanogaster"></loss>
+                </eventsRec>
+              </clade>
+            </clade>
+            <clade>
+              <name>Cnidaria*LOST</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <loss speciesLocation="Cnidaria"></loss>
+              </eventsRec>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </phylogeny>
+  </recGeneTree>
+</recPhylo>
