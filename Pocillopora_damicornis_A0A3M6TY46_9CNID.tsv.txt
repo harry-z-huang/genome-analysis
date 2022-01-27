@@ -1,0 +1,4 @@
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	18	644	0.0	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	241	624	1.7E-99	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	18	129	2.9E-20	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	18	644	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		

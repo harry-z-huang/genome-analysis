@@ -1,0 +1,11 @@
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1177	1197	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	PANTHER	PTHR14222:SF1	CONDENSIN-2 COMPLEX SUBUNIT D3	148	1069	0.0	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	SUPERFAMILY	SSF48371	ARM repeat	259	1064	4.66E-40	T	08-11-2020	IPR016024	Armadillo-type fold		
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1276	1291	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Pfam	PF12765	HEAT repeat associated with sister chromatid cohesion	451	470	1.5	T	08-11-2020	IPR026003	HEAT repeat associated with sister chromatid cohesion protein		
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Gene3D	G3DSA:1.25.10.10	-	723	919	1.2E-6	T	08-11-2020	IPR011989	Armadillo-like helical		
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Coils	Coil	Coil	1160	1180	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1179	1197	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	PANTHER	PTHR14222	CONDENSIN	148	1069	0.0	T	08-11-2020	IPR026971	Condensin subunit 1/Condensin-2 complex subunit D3	GO:0007076	
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1234	1306	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Pfam	PF12717	non-SMC mitotic condensation complex subunit 1	815	985	3.8E-26	T	08-11-2020	IPR032682	Condensin complex subunit 1, C-terminal		

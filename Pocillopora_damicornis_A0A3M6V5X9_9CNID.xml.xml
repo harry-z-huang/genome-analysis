@@ -1,0 +1,471 @@
+<?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="d630be07256611689bfaeb38e2a88da7">MQNSTVKSSDDDISQSTRKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLFFIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDRRRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVNPFLYAFRMPDFRKAVCSLFGIYHQDQQTRQSHETIAHLSERAPPSFALRELSTAVSSRISPVARLPEAVDKLSELK</sequence>
+    <xref id="Pocillopora_damicornis_A0A3M6V5X9_9CNID" name="Pocillopora_damicornis_A0A3M6V5X9_9CNID G_PROTEIN_RECEP_F1_2"/>
+    <matches>
+      <fingerprints-match evalue="1.7E-21" graphscan="iIii..i">
+        <signature ac="PR00237" desc="Rhodopsin-like GPCR superfamily signature" name="GPCRRHODOPSN">
+          <entry ac="IPR000276" desc="G protein-coupled receptor, rhodopsin-like" name="GPCR_Rhodpsn" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004930" name="G protein-coupled receptor activity"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0007186" name="G protein-coupled receptor signaling pathway"/>
+          </entry>
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00237</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="1" pvalue="1.57E-5" score="20.04" start="24" end="48">
+            <location-fragments>
+              <fingerprints-location-fragment start="24" end="48" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="2" pvalue="2.74E-8" score="31.78" start="57" end="78">
+            <location-fragments>
+              <fingerprints-location-fragment start="57" end="78" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="3" pvalue="1.22E-5" score="28.48" start="99" end="121">
+            <location-fragments>
+              <fingerprints-location-fragment start="99" end="121" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="4" pvalue="0.0362" score="18.58" start="134" end="155">
+            <location-fragments>
+              <fingerprints-location-fragment start="134" end="155" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="7" pvalue="1.29E-8" score="29.96" start="243" end="269">
+            <location-fragments>
+              <fingerprints-location-fragment start="243" end="269" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <hmmer2-match evalue="6.4E-4" score="-51.7">
+        <signature ac="SM01381" name="7TM_GPCR_Srsx_2">
+          <entry ac="IPR000276" desc="G protein-coupled receptor, rhodopsin-like" name="GPCR_Rhodpsn" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004930" name="G protein-coupled receptor activity"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0007186" name="G protein-coupled receptor signaling pathway"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM01381</model-ac>
+        <locations>
+          <hmmer2-location score="-51.7" evalue="6.4E-4" hmm-start="1" hmm-end="284" hmm-length="284" hmm-bounds="COMPLETE" start="33" end="276">
+            <location-fragments>
+              <hmmer2-location-fragment start="33" end="276" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="3.6E-26" score="92.1">
+        <signature ac="PF00001" desc="7 transmembrane receptor (rhodopsin family)" name="7tm_1">
+          <entry ac="IPR000276" desc="G protein-coupled receptor, rhodopsin-like" name="GPCR_Rhodpsn" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004930" name="G protein-coupled receptor activity"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0007186" name="G protein-coupled receptor signaling pathway"/>
+          </entry>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF00001</model-ac>
+        <locations>
+          <hmmer3-location env-end="261" env-start="39" post-processed="true" score="87.9" evalue="6.9E-25" hmm-start="1" hmm-end="263" hmm-length="263" hmm-bounds="COMPLETE" start="39" end="261">
+            <location-fragments>
+              <hmmer3-location-fragment start="39" end="261" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.6E-42" score="146.9">
+        <signature ac="G3DSA:1.20.1070.10" name="">
+          <signature-library-release library="GENE3D" version="4.2.0"/>
+        </signature>
+        <model-ac>3v2yA01</model-ac>
+        <locations>
+          <hmmer3-location env-end="278" env-start="1" post-processed="true" score="145.5" evalue="7.2E-42" hmm-start="22" hmm-end="298" hmm-length="302" hmm-bounds="COMPLETE" start="1" end="278">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="278" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="2.2E-45" familyName="Not available" score="166.7">
+        <signature ac="PTHR24246:SF27" name="ADENOSINE RECEPTOR HOMOLOG">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24246:SF27</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="291" hmm-start="12" hmm-end="304" hmm-length="314" hmm-bounds="INCOMPLETE" start="6" end="279">
+            <location-fragments>
+              <panther-location-fragment start="6" end="279" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.2E-45" familyName="Not available" score="166.7">
+        <signature ac="PTHR24246" name="OLFACTORY RECEPTOR AND ADENOSINE RECEPTOR">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24246</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="291" hmm-start="12" hmm-end="304" hmm-length="314" hmm-bounds="INCOMPLETE" start="6" end="279">
+            <location-fragments>
+              <panther-location-fragment start="6" end="279" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <phobius-match>
+        <signature ac="NON_CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region." name="Non cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>NON_CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="230" end="240">
+            <location-fragments>
+              <phobius-location-fragment start="230" end="240" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="NON_CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region." name="Non cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>NON_CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="1" end="21">
+            <location-fragments>
+              <phobius-location-fragment start="1" end="21" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="241" end="263">
+            <location-fragments>
+              <phobius-location-fragment start="241" end="263" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm." name="Cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="191" end="209">
+            <location-fragments>
+              <phobius-location-fragment start="191" end="209" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="135" end="158">
+            <location-fragments>
+              <phobius-location-fragment start="135" end="158" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="93" end="115">
+            <location-fragments>
+              <phobius-location-fragment start="93" end="115" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="NON_CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region." name="Non cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>NON_CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="159" end="169">
+            <location-fragments>
+              <phobius-location-fragment start="159" end="169" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="22" end="47">
+            <location-fragments>
+              <phobius-location-fragment start="22" end="47" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="210" end="229">
+            <location-fragments>
+              <phobius-location-fragment start="210" end="229" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm." name="Cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="116" end="134">
+            <location-fragments>
+              <phobius-location-fragment start="116" end="134" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm." name="Cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="264" end="333">
+            <location-fragments>
+              <phobius-location-fragment start="264" end="333" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="170" end="190">
+            <location-fragments>
+              <phobius-location-fragment start="170" end="190" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="TRANSMEMBRANE" desc="Region of a membrane-bound protein predicted to be embedded in the membrane." name="Transmembrane region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>TRANSMEMBRANE</model-ac>
+        <locations>
+          <phobius-location start="59" end="81">
+            <location-fragments>
+              <phobius-location-fragment start="59" end="81" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm." name="Cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="48" end="58">
+            <location-fragments>
+              <phobius-location-fragment start="48" end="58" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="NON_CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region." name="Non cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>NON_CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="82" end="92">
+            <location-fragments>
+              <phobius-location-fragment start="82" end="92" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <profilescan-match>
+        <signature ac="PS50262" desc="G-protein coupled receptors family 1 profile." name="G_PROTEIN_RECEP_F1_2">
+          <entry ac="IPR017452" desc="GPCR, rhodopsin-like, 7TM" name="GPCR_Rhodpsn_7TM" type="DOMAIN">
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50262</model-ac>
+        <locations>
+          <profilescan-location score="22.979" start="39" end="261">
+            <location-fragments>
+              <profilescan-location-fragment start="39" end="261" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>GNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGEL---WQTITFLTLDMFASVASISNLAAISLERLYATMLPWRHRA-TPKPQVLFFIASIWTLSAVITSSYAV---------------------------ALFAYSSplGSLFPWLPYICLlllviCGSYSALFVKMRRTDRRR--------SDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFAL----NRKTNNLFLNIMSFFNFGNSLVNPFLY</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd14967" desc="7tmA_amine_R-like" name="7tmA_amine_R-like">
+          <signature-library-release library="CDD" version="3.17"/>
+        </signature>
+        <model-ac>cd14967</model-ac>
+        <locations>
+          <rpsblast-location evalue="2.40994E-31" score="116.508" start="26" end="271">
+            <location-fragments>
+              <rpsblast-location-fragment start="26" end="271" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="ligand binding site" numLocations="15">
+                <site-locations>
+                  <site-location residue="D" start="99" end="99"/>
+                  <site-location residue="F" start="95" end="95"/>
+                  <site-location residue="W" start="170" end="170"/>
+                  <site-location residue="S" start="247" end="247"/>
+                  <site-location residue="S" start="103" end="103"/>
+                  <site-location residue="P" start="169" end="169"/>
+                  <site-location residue="L" start="243" end="243"/>
+                  <site-location residue="L" start="227" end="227"/>
+                  <site-location residue="S" start="166" end="166"/>
+                  <site-location residue="Y" start="173" end="173"/>
+                  <site-location residue="Y" start="221" end="221"/>
+                  <site-location residue="M" start="224" end="224"/>
+                  <site-location residue="F" start="251" end="251"/>
+                  <site-location residue="V" start="104" end="104"/>
+                  <site-location residue="M" start="100" end="100"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="2.93E-42">
+        <signature ac="SSF81321" name="Family A G protein-coupled receptor-like">
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0037432</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="348" start="18" end="291">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="18" end="291" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="206" end="228">
+            <location-fragments>
+              <tmhmm-location-fragment start="206" end="228" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="241" end="263">
+            <location-fragments>
+              <tmhmm-location-fragment start="241" end="263" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="61" end="83">
+            <location-fragments>
+              <tmhmm-location-fragment start="61" end="83" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="135" end="157">
+            <location-fragments>
+              <tmhmm-location-fragment start="135" end="157" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="167" end="189">
+            <location-fragments>
+              <tmhmm-location-fragment start="167" end="189" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="93" end="115">
+            <location-fragments>
+              <tmhmm-location-fragment start="93" end="115" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+      <tmhmm-match>
+        <signature ac="TMhelix" desc="Region of a membrane-bound protein predicted to be embedded in the membrane.">
+          <signature-library-release library="TMHMM" version="2.0c"/>
+        </signature>
+        <model-ac>TMhelix</model-ac>
+        <locations>
+          <tmhmm-location start="26" end="48">
+            <location-fragments>
+              <tmhmm-location-fragment start="26" end="48" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </tmhmm-location>
+        </locations>
+      </tmhmm-match>
+    </matches>
+  </protein>
+</protein-matches>

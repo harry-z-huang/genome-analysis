@@ -1,0 +1,160 @@
+<?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="af4ed1fb9550598989e20dfceea3de2f">MALSKTEKTITACSNLQISSISREWAEDAWNSEFCESQGFPEVMENCMIDRGYFVRELKELLLISKQWTTSVSQDALNEGLWKVLSDNNFSHKVLISLLHSFIESCDKTSNAGPKLESCVLAANIYGVEHTKFSILYYSRKLWMCCVFGLTEDAVVLLNSYSLKDSEQVAHHVIQLFVETTRQDVETIEQVVFDFPGDQIYSIKSIASLAYFGLRVICSPLHGDVGTITHTVFEHLISNVLMVFGGAIASNGTISRNVQNIKDQAVAFICYLARKETKEVLCSVEVLVQNIFTSCPERAEYRITVAKAVVDIMKILPVNQYASLIEWIDMYSKNDKISYRIFALDVFSLLLVEPERILPDENLQDDDKKKLLCKKYLLDIIIARCSDRAPMVRAKALQYFAQCATLENSALVLRVKEALHEPLESPAEGTPTLNRQANSKQTETRNIGVIIRKRTRDEKVGVRKAALQALESVITLNLDSLERVDVLTLHDCCMDPALSVRRQAMVSLTSLLQERPKCTMVHSLWLEGVLPLVMDRETTAQEKCFQILEEVLLHNIVPLSKRYLHSAFQHWSKQTQNKLSGNLVKSLISHIDTEHSKAAWLCLAAIGSSSNKLDHTFVVKSWDEYSKGVKDYDIETLCRILAVLGSSASFLPSTVTSTLTADLQRKLITFECPPEVIDAIVATLCKLNKGKLPEERGKSDHWCSDLLKASEEFLSSVTLKQDCIDEERLMRHLFTVGAVAQLTPTKTTERLFMFVESMLISHGNNQDPLQKLNLSPPVKAHVFVTLGKLCLQNEDLAKQCIATLARELETSDDPAIRNNVTVVMCDLCVRFTSLVDRYVPNIAVCLKDSSSLVRRQTLTVLTHLLQEDFVKWKGALFYRFITTIVDEDVEIRKFAEFCLVHLLLSRHPGMLFQHFVECVFHFNSFEKHQVYNKFPQTDTEKKLFSLKGYQNSGKRYTIYQFMLSHMSDEGRFNLTGKLCQEVLGGFTDGDITLDSDSASVLKDALLILSSKNIKLSSMKAKAAEDLADEGDVAGAAIVEARNKFLTQVLKKNMIENIIPIIIELKHMVNTRQPGSDGNTPQAADFIAPQLRSATPSPKNGSNRPNITPLTGAINQLQINRRHTLASNPSLINNALKSNLTVQISPLQAKRRYTLSTAAILNSARKAVDQAHKVAEQQKRRSISSMGSPHENSEQSHLSRISFCVNTSATAPPPSPIPTSLPIRVYAQGKVAPPSWIEGKVDEGNDGDEEEKEQQIICLMSPEQKPPKPRTWNIKSPDTKKLASNNKAVREPQNDSVSRRTRSRRRK</sequence>
+    <xref id="Pocillopora_damicornis_A0A3M6TV88_9CNID" name="Pocillopora_damicornis_A0A3M6TV88_9CNID"/>
+    <matches>
+      <coils-match>
+        <signature ac="Coil" name="Coil">
+          <signature-library-release library="COILS" version="2.2.1"/>
+        </signature>
+        <model-ac>Coil</model-ac>
+        <locations>
+          <coils-location start="1160" end="1180">
+            <location-fragments>
+              <coils-location-fragment start="1160" end="1180" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </coils-location>
+        </locations>
+      </coils-match>
+      <hmmer3-match evalue="1.8E-4" score="21.7">
+        <signature ac="PF12765" desc="HEAT repeat associated with sister chromatid cohesion" name="Cohesin_HEAT">
+          <entry ac="IPR026003" desc="HEAT repeat associated with sister chromatid cohesion protein" name="Cohesin_HEAT" type="REPEAT"/>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF12765</model-ac>
+        <locations>
+          <hmmer3-location env-end="470" env-start="450" post-processed="true" score="9.2" evalue="1.5" hmm-start="23" hmm-end="42" hmm-length="42" hmm-bounds="C_TERMINAL_COMPLETE" start="451" end="470">
+            <location-fragments>
+              <hmmer3-location-fragment start="451" end="470" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.6E-12" score="48.8">
+        <signature ac="G3DSA:1.25.10.10" name="">
+          <entry ac="IPR011989" desc="Armadillo-like helical" name="ARM-like" type="HOMOLOGOUS_SUPERFAMILY"/>
+          <signature-library-release library="GENE3D" version="4.2.0"/>
+        </signature>
+        <model-ac>4rv1D00</model-ac>
+        <locations>
+          <hmmer3-location env-end="919" env-start="723" post-processed="true" score="29.4" evalue="1.2E-6" hmm-start="141" hmm-end="283" hmm-length="420" hmm-bounds="COMPLETE" start="723" end="919">
+            <location-fragments>
+              <hmmer3-location-fragment start="723" end="919" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="4.6E-31" score="108.0">
+        <signature ac="PF12717" desc="non-SMC mitotic condensation complex subunit 1" name="Cnd1">
+          <entry ac="IPR032682" desc="Condensin complex subunit 1, C-terminal" name="Cnd1_C" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF12717</model-ac>
+        <locations>
+          <hmmer3-location env-end="1009" env-start="815" post-processed="true" score="92.1" evalue="3.8E-26" hmm-start="1" hmm-end="148" hmm-length="162" hmm-bounds="N_TERMINAL_COMPLETE" start="815" end="985">
+            <location-fragments>
+              <hmmer3-location-fragment start="815" end="985" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1177" end="1197">
+            <location-fragments>
+              <mobidblite-location-fragment start="1177" end="1197" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="1276" end="1291">
+            <location-fragments>
+              <mobidblite-location-fragment start="1276" end="1291" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="1179" end="1197">
+            <location-fragments>
+              <mobidblite-location-fragment start="1179" end="1197" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1234" end="1306">
+            <location-fragments>
+              <mobidblite-location-fragment start="1234" end="1306" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="0.0" familyName="Not available" score="843.1">
+        <signature ac="PTHR14222:SF1" name="CONDENSIN-2 COMPLEX SUBUNIT D3">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR14222:SF1</model-ac>
+        <locations>
+          <panther-location env-start="137" env-end="1073" hmm-start="180" hmm-end="1160" hmm-length="1316" hmm-bounds="INCOMPLETE" start="148" end="1069">
+            <location-fragments>
+              <panther-location-fragment start="148" end="1069" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="0.0" familyName="Not available" score="843.1">
+        <signature ac="PTHR14222" name="CONDENSIN">
+          <entry ac="IPR026971" desc="Condensin subunit 1/Condensin-2 complex subunit D3" name="CND1/NCAPD3" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0007076" name="mitotic chromosome condensation"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR14222</model-ac>
+        <locations>
+          <panther-location env-start="137" env-end="1073" hmm-start="180" hmm-end="1160" hmm-length="1316" hmm-bounds="INCOMPLETE" start="148" end="1069">
+            <location-fragments>
+              <panther-location-fragment start="148" end="1069" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="4.66E-40">
+        <signature ac="SSF48371" name="ARM repeat">
+          <entry ac="IPR016024" desc="Armadillo-type fold" name="ARM-type_fold" type="HOMOLOGOUS_SUPERFAMILY"/>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0049802</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="1207" start="259" end="1064">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="259" end="404" dc-status="C_TERMINAL_DISC"/>
+              <superfamilyhmmer3-location-fragment start="434" end="714" dc-status="NC_TERMINAL_DISC"/>
+              <superfamilyhmmer3-location-fragment start="774" end="1064" dc-status="N_TERMINAL_DISC"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,923 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MQNSTVKSSDDDISQSTRKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLFFIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDRRRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVNPFLYAFRMPDFRKAVCSLFGIYHQDQQTRQSHETIAHLSERAPPSFALRELSTAVSSRISPVARLPEAVDKLSELK",
+  "md5" : "d630be07256611689bfaeb38e2a88da7",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 230,
+      "end" : 240,
+      "location-fragments" : [ {
+        "start" : 230,
+        "end" : 240,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 21,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 21,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 241,
+      "end" : 263,
+      "location-fragments" : [ {
+        "start" : 241,
+        "end" : 263,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 206,
+      "end" : 228,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 206,
+        "end" : 228,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "PS50262",
+      "name" : "G_PROTEIN_RECEP_F1_2",
+      "description" : "G-protein coupled receptors family 1 profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR017452",
+        "name" : "GPCR_Rhodpsn_7TM",
+        "description" : "GPCR, rhodopsin-like, 7TM",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "integral component of membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016021"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 39,
+      "end" : 261,
+      "score" : 22.979,
+      "alignment" : "GNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGEL---WQTITFLTLDMFASVASISNLAAISLERLYATMLPWRHRA-TPKPQVLFFIASIWTLSAVITSSYAV---------------------------ALFAYSSplGSLFPWLPYICLlllviCGSYSALFVKMRRTDRRR--------SDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFAL----NRKTNNLFLNIMSFFNFGNSLVNPFLY",
+      "location-fragments" : [ {
+        "start" : 39,
+        "end" : 261,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50262"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 191,
+      "end" : 209,
+      "location-fragments" : [ {
+        "start" : 191,
+        "end" : 209,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "PF00001",
+      "name" : "7tm_1",
+      "description" : "7 transmembrane receptor (rhodopsin family)",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR000276",
+        "name" : "GPCR_Rhodpsn",
+        "description" : "G protein-coupled receptor, rhodopsin-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "G protein-coupled receptor activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004930"
+        }, {
+          "name" : "integral component of membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016021"
+        }, {
+          "name" : "G protein-coupled receptor signaling pathway",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0007186"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 39,
+      "end" : 261,
+      "hmmStart" : 1,
+      "hmmEnd" : 263,
+      "hmmLength" : 263,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.9E-25,
+      "score" : 87.9,
+      "envelopeStart" : 39,
+      "envelopeEnd" : 261,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 39,
+        "end" : 261,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.6E-26,
+    "score" : 92.1,
+    "model-ac" : "PF00001"
+  }, {
+    "signature" : {
+      "accession" : "PR00237",
+      "name" : "GPCRRHODOPSN",
+      "description" : "Rhodopsin-like GPCR superfamily signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR000276",
+        "name" : "GPCR_Rhodpsn",
+        "description" : "G protein-coupled receptor, rhodopsin-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "G protein-coupled receptor activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004930"
+        }, {
+          "name" : "integral component of membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016021"
+        }, {
+          "name" : "G protein-coupled receptor signaling pathway",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0007186"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 24,
+      "end" : 48,
+      "pvalue" : 1.57E-5,
+      "score" : 20.04,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 24,
+        "end" : 48,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 57,
+      "end" : 78,
+      "pvalue" : 2.74E-8,
+      "score" : 31.78,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 57,
+        "end" : 78,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 99,
+      "end" : 121,
+      "pvalue" : 1.22E-5,
+      "score" : 28.48,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 99,
+        "end" : 121,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 134,
+      "end" : 155,
+      "pvalue" : 0.0362,
+      "score" : 18.58,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 134,
+        "end" : 155,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 243,
+      "end" : 269,
+      "pvalue" : 1.29E-8,
+      "score" : 29.96,
+      "motifNumber" : 7,
+      "location-fragments" : [ {
+        "start" : 243,
+        "end" : 269,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-21,
+    "graphscan" : "iIii..i",
+    "model-ac" : "PR00237"
+  }, {
+    "signature" : {
+      "accession" : "PTHR24246:SF27",
+      "name" : "ADENOSINE RECEPTOR HOMOLOG",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 279,
+      "hmmStart" : 12,
+      "hmmEnd" : 304,
+      "hmmLength" : 314,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 291,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 279,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-45,
+    "familyName" : "Not available",
+    "score" : 166.7,
+    "model-ac" : "PTHR24246:SF27"
+  }, {
+    "signature" : {
+      "accession" : "cd14967",
+      "name" : "7tmA_amine_R-like",
+      "description" : "7tmA_amine_R-like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 26,
+      "end" : 271,
+      "sites" : [ {
+        "description" : "ligand binding site",
+        "numLocations" : 15,
+        "siteLocations" : [ {
+          "start" : 99,
+          "end" : 99,
+          "residue" : "D"
+        }, {
+          "start" : 95,
+          "end" : 95,
+          "residue" : "F"
+        }, {
+          "start" : 170,
+          "end" : 170,
+          "residue" : "W"
+        }, {
+          "start" : 247,
+          "end" : 247,
+          "residue" : "S"
+        }, {
+          "start" : 103,
+          "end" : 103,
+          "residue" : "S"
+        }, {
+          "start" : 169,
+          "end" : 169,
+          "residue" : "P"
+        }, {
+          "start" : 243,
+          "end" : 243,
+          "residue" : "L"
+        }, {
+          "start" : 227,
+          "end" : 227,
+          "residue" : "L"
+        }, {
+          "start" : 166,
+          "end" : 166,
+          "residue" : "S"
+        }, {
+          "start" : 173,
+          "end" : 173,
+          "residue" : "Y"
+        }, {
+          "start" : 221,
+          "end" : 221,
+          "residue" : "Y"
+        }, {
+          "start" : 224,
+          "end" : 224,
+          "residue" : "M"
+        }, {
+          "start" : 251,
+          "end" : 251,
+          "residue" : "F"
+        }, {
+          "start" : 104,
+          "end" : 104,
+          "residue" : "V"
+        }, {
+          "start" : 100,
+          "end" : 100,
+          "residue" : "M"
+        } ]
+      } ],
+      "evalue" : 2.40994E-31,
+      "score" : 116.508,
+      "location-fragments" : [ {
+        "start" : 26,
+        "end" : 271,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd14967"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 135,
+      "end" : 158,
+      "location-fragments" : [ {
+        "start" : 135,
+        "end" : 158,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 241,
+      "end" : 263,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 241,
+        "end" : 263,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "PTHR24246",
+      "name" : "OLFACTORY RECEPTOR AND ADENOSINE RECEPTOR",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 279,
+      "hmmStart" : 12,
+      "hmmEnd" : 304,
+      "hmmLength" : 314,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 291,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 279,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-45,
+    "familyName" : "Not available",
+    "score" : 166.7,
+    "model-ac" : "PTHR24246"
+  }, {
+    "signature" : {
+      "accession" : "SM01381",
+      "name" : "7TM_GPCR_Srsx_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "7.1"
+      },
+      "entry" : {
+        "accession" : "IPR000276",
+        "name" : "GPCR_Rhodpsn",
+        "description" : "G protein-coupled receptor, rhodopsin-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "G protein-coupled receptor activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004930"
+        }, {
+          "name" : "integral component of membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016021"
+        }, {
+          "name" : "G protein-coupled receptor signaling pathway",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0007186"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 33,
+      "end" : 276,
+      "hmmStart" : 1,
+      "hmmEnd" : 284,
+      "hmmLength" : 284,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.4E-4,
+      "score" : -51.7,
+      "location-fragments" : [ {
+        "start" : 33,
+        "end" : 276,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.4E-4,
+    "score" : -51.7,
+    "model-ac" : "SM01381"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 61,
+      "end" : 83,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 61,
+        "end" : 83,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 93,
+      "end" : 115,
+      "location-fragments" : [ {
+        "start" : 93,
+        "end" : 115,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1070.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 278,
+      "hmmStart" : 22,
+      "hmmEnd" : 298,
+      "hmmLength" : 302,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 7.2E-42,
+      "score" : 145.5,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 278,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 278,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.6E-42,
+    "score" : 146.9,
+    "model-ac" : "3v2yA01"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 135,
+      "end" : 157,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 135,
+        "end" : 157,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 159,
+      "end" : 169,
+      "location-fragments" : [ {
+        "start" : 159,
+        "end" : 169,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 22,
+      "end" : 47,
+      "location-fragments" : [ {
+        "start" : 22,
+        "end" : 47,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 167,
+      "end" : 189,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 167,
+        "end" : 189,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "SSF81321",
+      "name" : "Family A G protein-coupled receptor-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 18,
+      "end" : 291,
+      "hmmLength" : 348,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 291,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.93E-42,
+    "model-ac" : "0037432"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 210,
+      "end" : 229,
+      "location-fragments" : [ {
+        "start" : 210,
+        "end" : 229,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 116,
+      "end" : 134,
+      "location-fragments" : [ {
+        "start" : 116,
+        "end" : 134,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 264,
+      "end" : 333,
+      "location-fragments" : [ {
+        "start" : 264,
+        "end" : 333,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 170,
+      "end" : 190,
+      "location-fragments" : [ {
+        "start" : 170,
+        "end" : 190,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 59,
+      "end" : 81,
+      "location-fragments" : [ {
+        "start" : 59,
+        "end" : 81,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 93,
+      "end" : 115,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 93,
+        "end" : 115,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 48,
+      "end" : 58,
+      "location-fragments" : [ {
+        "start" : 48,
+        "end" : 58,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 26,
+      "end" : 48,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 26,
+        "end" : 48,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 82,
+      "end" : 92,
+      "location-fragments" : [ {
+        "start" : 82,
+        "end" : 92,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  } ],
+  "xref" : [ {
+    "name" : "Pocillopora_damicornis_A0A3M6V5X9_9CNID G_PROTEIN_RECEP_F1_2",
+    "id" : "Pocillopora_damicornis_A0A3M6V5X9_9CNID"
+  } ]
+} ]
+}

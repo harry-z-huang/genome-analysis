@@ -1,0 +1,348 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MALSKTEKTITACSNLQISSISREWAEDAWNSEFCESQGFPEVMENCMIDRGYFVRELKELLLISKQWTTSVSQDALNEGLWKVLSDNNFSHKVLISLLHSFIESCDKTSNAGPKLESCVLAANIYGVEHTKFSILYYSRKLWMCCVFGLTEDAVVLLNSYSLKDSEQVAHHVIQLFVETTRQDVETIEQVVFDFPGDQIYSIKSIASLAYFGLRVICSPLHGDVGTITHTVFEHLISNVLMVFGGAIASNGTISRNVQNIKDQAVAFICYLARKETKEVLCSVEVLVQNIFTSCPERAEYRITVAKAVVDIMKILPVNQYASLIEWIDMYSKNDKISYRIFALDVFSLLLVEPERILPDENLQDDDKKKLLCKKYLLDIIIARCSDRAPMVRAKALQYFAQCATLENSALVLRVKEALHEPLESPAEGTPTLNRQANSKQTETRNIGVIIRKRTRDEKVGVRKAALQALESVITLNLDSLERVDVLTLHDCCMDPALSVRRQAMVSLTSLLQERPKCTMVHSLWLEGVLPLVMDRETTAQEKCFQILEEVLLHNIVPLSKRYLHSAFQHWSKQTQNKLSGNLVKSLISHIDTEHSKAAWLCLAAIGSSSNKLDHTFVVKSWDEYSKGVKDYDIETLCRILAVLGSSASFLPSTVTSTLTADLQRKLITFECPPEVIDAIVATLCKLNKGKLPEERGKSDHWCSDLLKASEEFLSSVTLKQDCIDEERLMRHLFTVGAVAQLTPTKTTERLFMFVESMLISHGNNQDPLQKLNLSPPVKAHVFVTLGKLCLQNEDLAKQCIATLARELETSDDPAIRNNVTVVMCDLCVRFTSLVDRYVPNIAVCLKDSSSLVRRQTLTVLTHLLQEDFVKWKGALFYRFITTIVDEDVEIRKFAEFCLVHLLLSRHPGMLFQHFVECVFHFNSFEKHQVYNKFPQTDTEKKLFSLKGYQNSGKRYTIYQFMLSHMSDEGRFNLTGKLCQEVLGGFTDGDITLDSDSASVLKDALLILSSKNIKLSSMKAKAAEDLADEGDVAGAAIVEARNKFLTQVLKKNMIENIIPIIIELKHMVNTRQPGSDGNTPQAADFIAPQLRSATPSPKNGSNRPNITPLTGAINQLQINRRHTLASNPSLINNALKSNLTVQISPLQAKRRYTLSTAAILNSARKAVDQAHKVAEQQKRRSISSMGSPHENSEQSHLSRISFCVNTSATAPPPSPIPTSLPIRVYAQGKVAPPSWIEGKVDEGNDGDEEEKEQQIICLMSPEQKPPKPRTWNIKSPDTKKLASNNKAVREPQNDSVSRRTRSRRRK",
+  "md5" : "af4ed1fb9550598989e20dfceea3de2f",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1177,
+      "end" : 1197,
+      "location-fragments" : [ {
+        "start" : 1177,
+        "end" : 1197,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PTHR14222:SF1",
+      "name" : "CONDENSIN-2 COMPLEX SUBUNIT D3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 148,
+      "end" : 1069,
+      "hmmStart" : 180,
+      "hmmEnd" : 1160,
+      "hmmLength" : 1316,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 137,
+      "envelopeEnd" : 1073,
+      "location-fragments" : [ {
+        "start" : 148,
+        "end" : 1069,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 843.1,
+    "model-ac" : "PTHR14222:SF1"
+  }, {
+    "signature" : {
+      "accession" : "SSF48371",
+      "name" : "ARM repeat",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016024",
+        "name" : "ARM-type_fold",
+        "description" : "Armadillo-type fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 259,
+      "end" : 1064,
+      "hmmLength" : 1207,
+      "location-fragments" : [ {
+        "start" : 259,
+        "end" : 404,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 434,
+        "end" : 714,
+        "dc-status" : "NC_TERMINAL_DISC"
+      }, {
+        "start" : 774,
+        "end" : 1064,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 4.66E-40,
+    "model-ac" : "0049802"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1276,
+      "end" : 1291,
+      "location-fragments" : [ {
+        "start" : 1276,
+        "end" : 1291,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polar"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF12765",
+      "name" : "Cohesin_HEAT",
+      "description" : "HEAT repeat associated with sister chromatid cohesion",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR026003",
+        "name" : "Cohesin_HEAT",
+        "description" : "HEAT repeat associated with sister chromatid cohesion protein",
+        "type" : "REPEAT",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 451,
+      "end" : 470,
+      "hmmStart" : 23,
+      "hmmEnd" : 42,
+      "hmmLength" : 42,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.5,
+      "score" : 9.2,
+      "envelopeStart" : 450,
+      "envelopeEnd" : 470,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 451,
+        "end" : 470,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.8E-4,
+    "score" : 21.7,
+    "model-ac" : "PF12765"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.25.10.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR011989",
+        "name" : "ARM-like",
+        "description" : "Armadillo-like helical",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 723,
+      "end" : 919,
+      "hmmStart" : 141,
+      "hmmEnd" : 283,
+      "hmmLength" : 420,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.2E-6,
+      "score" : 29.4,
+      "envelopeStart" : 723,
+      "envelopeEnd" : 919,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 723,
+        "end" : 919,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.6E-12,
+    "score" : 48.8,
+    "model-ac" : "4rv1D00"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1160,
+      "end" : 1180,
+      "location-fragments" : [ {
+        "start" : 1160,
+        "end" : 1180,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1179,
+      "end" : 1197,
+      "location-fragments" : [ {
+        "start" : 1179,
+        "end" : 1197,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polar"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PTHR14222",
+      "name" : "CONDENSIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR026971",
+        "name" : "CND1/NCAPD3",
+        "description" : "Condensin subunit 1/Condensin-2 complex subunit D3",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "mitotic chromosome condensation",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0007076"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 148,
+      "end" : 1069,
+      "hmmStart" : 180,
+      "hmmEnd" : 1160,
+      "hmmLength" : 1316,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 137,
+      "envelopeEnd" : 1073,
+      "location-fragments" : [ {
+        "start" : 148,
+        "end" : 1069,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 843.1,
+    "model-ac" : "PTHR14222"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1234,
+      "end" : 1306,
+      "location-fragments" : [ {
+        "start" : 1234,
+        "end" : 1306,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF12717",
+      "name" : "Cnd1",
+      "description" : "non-SMC mitotic condensation complex subunit 1",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR032682",
+        "name" : "Cnd1_C",
+        "description" : "Condensin complex subunit 1, C-terminal",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 815,
+      "end" : 985,
+      "hmmStart" : 1,
+      "hmmEnd" : 148,
+      "hmmLength" : 162,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 3.8E-26,
+      "score" : 92.1,
+      "envelopeStart" : 815,
+      "envelopeEnd" : 1009,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 815,
+        "end" : 985,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.6E-31,
+    "score" : 108.0,
+    "model-ac" : "PF12717"
+  } ],
+  "xref" : [ {
+    "name" : "Pocillopora_damicornis_A0A3M6TV88_9CNID",
+    "id" : "Pocillopora_damicornis_A0A3M6TV88_9CNID"
+  } ]
+} ]
+}

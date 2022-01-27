@@ -1,0 +1,54 @@
+<?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="a357ad8f4cd77dc7591837c2445a110b">MSVDRDPNENDRGLSGAEVLASLITDALEKAKLGKTKDYDLLVQKLADPGIKEVHLQRYLMALTTCVSHLTKQYDTLVGAVLNTRWALCGEKTVEEFIEFLTSLVSAQTYYLRACLNMIVKLFIPCKISSIKKSLVLSSFWKHVLSWLHDYSISVDNLREEDVIFGKFDIAEDFLLFNHILLLGKFYIYSRKYQNVIPSIQGFIARTRRVYNTELHIAGKRDKLNNHFRKWEKLISIFMISEKIFCNAHEALHAIHQVVPAVPQFLISVLSENFPFVRKPTIFQESYVKNLLQATKYLPSLRANILELIIDNLTKIDVAVPKHELEHHETTPEEDPTQFEVEMDATNIAVEDSGEGQEVNCMGNEMADRLDILMEILFKYIHEVTHMDGEYIVDGGIELFNELLVIFDKVILPTHASCHIQFIMFLLCSFDQYFSNSLLDVCWKKIEEPNTPAIIRQASAAYIASFTARAKYIPISYIDTHDASCVTPDAGKYGPFYSVCQALFYMFVFRHKQLLELEGGLKYIRRLNLDRIVTCRINPLRVCLPSIVKLFAYITRHYELVFCYTIIEQNNRMMLPVATTASSHAVRSLSFQNQLDSYFPFDPYLLKRSSKFIKPLYHEWKELEHDADDDDDDEEEDDQRKHSETYEKITWIAAAAQMALYQVLHLTRTCVCHLGSQFLPEDSSHSIVTTYAAINLVLGFTPNTLMSVTWVLSIFQKIAPTAFQQQMLLKSHPCNHAMLLSSTGRRDHHVTLQFVDTNA</sequence>
+    <xref id="Pocillopora_damicornis_A0A3M6TY46_9CNID" name="Pocillopora_damicornis_A0A3M6TY46_9CNID"/>
+    <matches>
+      <hmmer3-match evalue="2.4E-118" score="396.1">
+        <signature ac="PF05327" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RRN3">
+          <entry ac="IPR007991" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RNA_pol_I_trans_ini_fac_RRN3" type="FAMILY"/>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF05327</model-ac>
+        <locations>
+          <hmmer3-location env-end="625" env-start="222" post-processed="true" score="333.9" evalue="1.7E-99" hmm-start="133" hmm-end="556" hmm-length="557" hmm-bounds="INCOMPLETE" start="241" end="624">
+            <location-fragments>
+              <hmmer3-location-fragment start="241" end="624" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="151" env-start="15" post-processed="true" score="72.3" evalue="2.9E-20" hmm-start="6" hmm-end="121" hmm-length="557" hmm-bounds="INCOMPLETE" start="18" end="129">
+            <location-fragments>
+              <hmmer3-location-fragment start="18" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="0.0" familyName="Not available" score="537.9">
+        <signature ac="PTHR12790:SF0" name="RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12790:SF0</model-ac>
+        <locations>
+          <panther-location env-start="2" env-end="655" hmm-start="36" hmm-end="576" hmm-length="622" hmm-bounds="INCOMPLETE" start="18" end="644">
+            <location-fragments>
+              <panther-location-fragment start="18" end="644" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="0.0" familyName="Not available" score="537.9">
+        <signature ac="PTHR12790" name="TRANSCRIPTION INITIATION FACTOR IA  RRN3">
+          <entry ac="IPR007991" desc="RNA polymerase I specific transcription initiation factor RRN3" name="RNA_pol_I_trans_ini_fac_RRN3" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12790</model-ac>
+        <locations>
+          <panther-location env-start="2" env-end="655" hmm-start="36" hmm-end="576" hmm-length="622" hmm-bounds="INCOMPLETE" start="18" end="644">
+            <location-fragments>
+              <panther-location-fragment start="18" end="644" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,135 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MSVDRDPNENDRGLSGAEVLASLITDALEKAKLGKTKDYDLLVQKLADPGIKEVHLQRYLMALTTCVSHLTKQYDTLVGAVLNTRWALCGEKTVEEFIEFLTSLVSAQTYYLRACLNMIVKLFIPCKISSIKKSLVLSSFWKHVLSWLHDYSISVDNLREEDVIFGKFDIAEDFLLFNHILLLGKFYIYSRKYQNVIPSIQGFIARTRRVYNTELHIAGKRDKLNNHFRKWEKLISIFMISEKIFCNAHEALHAIHQVVPAVPQFLISVLSENFPFVRKPTIFQESYVKNLLQATKYLPSLRANILELIIDNLTKIDVAVPKHELEHHETTPEEDPTQFEVEMDATNIAVEDSGEGQEVNCMGNEMADRLDILMEILFKYIHEVTHMDGEYIVDGGIELFNELLVIFDKVILPTHASCHIQFIMFLLCSFDQYFSNSLLDVCWKKIEEPNTPAIIRQASAAYIASFTARAKYIPISYIDTHDASCVTPDAGKYGPFYSVCQALFYMFVFRHKQLLELEGGLKYIRRLNLDRIVTCRINPLRVCLPSIVKLFAYITRHYELVFCYTIIEQNNRMMLPVATTASSHAVRSLSFQNQLDSYFPFDPYLLKRSSKFIKPLYHEWKELEHDADDDDDDEEEDDQRKHSETYEKITWIAAAAQMALYQVLHLTRTCVCHLGSQFLPEDSSHSIVTTYAAINLVLGFTPNTLMSVTWVLSIFQKIAPTAFQQQMLLKSHPCNHAMLLSSTGRRDHHVTLQFVDTNA",
+  "md5" : "a357ad8f4cd77dc7591837c2445a110b",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR12790:SF0",
+      "name" : "RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 18,
+      "end" : 644,
+      "hmmStart" : 36,
+      "hmmEnd" : 576,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 2,
+      "envelopeEnd" : 655,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 644,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 537.9,
+    "model-ac" : "PTHR12790:SF0"
+  }, {
+    "signature" : {
+      "accession" : "PF05327",
+      "name" : "RRN3",
+      "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 241,
+      "end" : 624,
+      "hmmStart" : 133,
+      "hmmEnd" : 556,
+      "hmmLength" : 557,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.7E-99,
+      "score" : 333.9,
+      "envelopeStart" : 222,
+      "envelopeEnd" : 625,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 241,
+        "end" : 624,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 18,
+      "end" : 129,
+      "hmmStart" : 6,
+      "hmmEnd" : 121,
+      "hmmLength" : 557,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.9E-20,
+      "score" : 72.3,
+      "envelopeStart" : 15,
+      "envelopeEnd" : 151,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 129,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.4E-118,
+    "score" : 396.1,
+    "model-ac" : "PF05327"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790",
+      "name" : "TRANSCRIPTION INITIATION FACTOR IA  RRN3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 18,
+      "end" : 644,
+      "hmmStart" : 36,
+      "hmmEnd" : 576,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 2,
+      "envelopeEnd" : 655,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 644,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 537.9,
+    "model-ac" : "PTHR12790"
+  } ],
+  "xref" : [ {
+    "name" : "Pocillopora_damicornis_A0A3M6TY46_9CNID",
+    "id" : "Pocillopora_damicornis_A0A3M6TY46_9CNID"
+  } ]
+} ]
+}

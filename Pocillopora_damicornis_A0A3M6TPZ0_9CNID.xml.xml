@@ -1,0 +1,533 @@
+<?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="fd8d984f793b186732a8999fa090527d">MLNGFAKHRPLSTLEYEQQLDYLCQWMEKWSDQVRRSVIDLLLPRCDQEQITFLWTVVEPTLHRDFMYSSLNAFPRSSFSPVSTPLCREVHKKLGKPRYRAWKLHRVESAILHDEEEVKAWTSTAVLPIVKSPSLASPSRQTKRTPSPERVESRGSWKSKTTYFGVKLPGISSVGGQKRSLSRFTGSRSAPPCGATKTSSQHAVRRHMQNEYKKDVINNAAMDSGRKADDVTSWQRLYKSKSCPNVSHTAKSVVGQQRHVLHHRTKTEQGPNSTWNLISLPENAQCLVQWFEQQWSGWQKNEFLQLFLRVLAPSELYFLSGLLAVKQYRDFIAMLPEQLAIRIFSFLVPKELLVVCQVSKTWRRLASKDELWKAKCQETYVGVPLSTPAVWKDIFRENLNLKRNWANGRCKVTDMSGHTHNVLSVCAYKNYVATGSLDRTIKIWDAKSGTLLLTFQGHTRGIWSLRFLSSSILISGSYDKTIRLWSLRTNMCVRILISHDGPVWAIERKGDFLVSGSSDKTAKIWNIRQCKLLFSLMGHNGCVFCVDLDNECKKAFTGSGDRTVRVWEVSSGVCLLSFNIGLLSGSTVTAVSFDQGHVVVGSGQLVSLWNLETGACVNEFKGHKGRIESIKLKFIMVNGKKEAGLIVSAGKDGLIKYWDIEQGSCIQTLKGHKDNVNCIHVDSTRIISVSYDQRVRVWDFNS</sequence>
+    <xref id="Pocillopora_damicornis_A0A3M6TPZ0_9CNID" name="Pocillopora_damicornis_A0A3M6TPZ0_9CNID"/>
+    <matches>
+      <fingerprints-match evalue="3.3E-8" graphscan="III">
+        <signature ac="PR00320" desc="G protein beta WD-40 repeat signature" name="GPROTEINBRPT">
+          <entry ac="IPR020472" desc="G-protein beta WD-40 repeat" name="G-protein_beta_WD-40_rep" type="REPEAT"/>
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00320</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="1" pvalue="4.3E-5" score="38.55" start="432" end="446">
+            <location-fragments>
+              <fingerprints-location-fragment start="432" end="446" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="2" pvalue="9.13E-6" score="42.28" start="473" end="487">
+            <location-fragments>
+              <fingerprints-location-fragment start="473" end="487" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="3" pvalue="4.41E-5" score="37.98" start="513" end="527">
+            <location-fragments>
+              <fingerprints-location-fragment start="513" end="527" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <hmmer2-match evalue="2.3E-7" score="40.5">
+        <signature ac="SM00256" name="fbox_2">
+          <entry ac="IPR001810" desc="F-box domain" name="F-box_dom" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00256</model-ac>
+        <locations>
+          <hmmer2-location score="40.5" evalue="2.3E-7" hmm-start="1" hmm-end="41" hmm-length="41" hmm-bounds="COMPLETE" start="335" end="375">
+            <location-fragments>
+              <hmmer2-location-fragment start="335" end="375" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer2-match evalue="7.7E-61" score="218.1">
+        <signature ac="SM00320" name="WD40_4">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00320</model-ac>
+        <locations>
+          <hmmer2-location score="41.2" evalue="1.3E-7" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="662" end="699">
+            <location-fragments>
+              <hmmer2-location-fragment start="662" end="699" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="4.8" evalue="86.0" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="571" end="610">
+            <location-fragments>
+              <hmmer2-location-fragment start="571" end="610" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="46.1" evalue="4.8E-9" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="448" end="486">
+            <location-fragments>
+              <hmmer2-location-fragment start="448" end="486" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="38.3" evalue="1.0E-6" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="529" end="568">
+            <location-fragments>
+              <hmmer2-location-fragment start="529" end="568" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="34.6" evalue="1.4E-5" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="408" end="445">
+            <location-fragments>
+              <hmmer2-location-fragment start="408" end="445" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="22.1" evalue="0.076" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="613" end="659">
+            <location-fragments>
+              <hmmer2-location-fragment start="613" end="659" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="31.0" evalue="1.6E-4" hmm-start="1" hmm-end="46" hmm-length="46" hmm-bounds="COMPLETE" start="489" end="526">
+            <location-fragments>
+              <hmmer2-location-fragment start="489" end="526" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="1.5E-10" score="40.8">
+        <signature ac="PF12937" desc="F-box-like" name="F-box-like">
+          <entry ac="IPR001810" desc="F-box domain" name="F-box_dom" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF12937</model-ac>
+        <locations>
+          <hmmer3-location env-end="378" env-start="332" post-processed="true" score="39.3" evalue="4.2E-10" hmm-start="3" hmm-end="46" hmm-length="48" hmm-bounds="INCOMPLETE" start="334" end="376">
+            <location-fragments>
+              <hmmer3-location-fragment start="334" end="376" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="5.3E-21" score="76.4">
+        <signature ac="G3DSA:1.20.1280.50" name="">
+          <signature-library-release library="GENE3D" version="4.2.0"/>
+        </signature>
+        <model-ac>2ovrB01</model-ac>
+        <locations>
+          <hmmer3-location env-end="407" env-start="315" post-processed="true" score="76.4" evalue="5.3E-21" hmm-start="9" hmm-end="85" hmm-length="87" hmm-bounds="N_TERMINAL_COMPLETE" start="315" end="404">
+            <location-fragments>
+              <hmmer3-location-fragment start="315" end="404" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="5.1E-95" score="319.5">
+        <signature ac="G3DSA:2.130.10.10" name="">
+          <entry ac="IPR015943" desc="WD40/YVTN repeat-like-containing domain superfamily" name="WD40/YVTN_repeat-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.2.0"/>
+        </signature>
+        <model-ac>1p22A02</model-ac>
+        <locations>
+          <hmmer3-location env-end="702" env-start="509" post-processed="true" score="165.8" evalue="3.6E-48" hmm-start="68" hmm-end="249" hmm-length="295" hmm-bounds="COMPLETE" start="509" end="702">
+            <location-fragments>
+              <hmmer3-location-fragment start="509" end="702" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="7.9E-37" score="124.6">
+        <signature ac="PF00400" desc="WD domain, G-beta repeat" name="WD40">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF00400</model-ac>
+        <locations>
+          <hmmer3-location env-end="526" env-start="490" post-processed="true" score="24.1" evalue="4.7E-5" hmm-start="3" hmm-end="38" hmm-length="38" hmm-bounds="C_TERMINAL_COMPLETE" start="492" end="526">
+            <location-fragments>
+              <hmmer3-location-fragment start="492" end="526" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="659" env-start="614" post-processed="true" score="15.1" evalue="0.032" hmm-start="1" hmm-end="38" hmm-length="38" hmm-bounds="COMPLETE" start="614" end="659">
+            <location-fragments>
+              <hmmer3-location-fragment start="614" end="659" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="699" env-start="663" post-processed="true" score="26.2" evalue="9.8E-6" hmm-start="1" hmm-end="38" hmm-length="38" hmm-bounds="COMPLETE" start="663" end="699">
+            <location-fragments>
+              <hmmer3-location-fragment start="663" end="699" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="568" env-start="529" post-processed="true" score="20.0" evalue="9.2E-4" hmm-start="2" hmm-end="37" hmm-length="38" hmm-bounds="INCOMPLETE" start="531" end="567">
+            <location-fragments>
+              <hmmer3-location-fragment start="531" end="567" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="445" env-start="408" post-processed="true" score="23.0" evalue="1.1E-4" hmm-start="5" hmm-end="38" hmm-length="38" hmm-bounds="C_TERMINAL_COMPLETE" start="413" end="445">
+            <location-fragments>
+              <hmmer3-location-fragment start="413" end="445" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="486" env-start="449" post-processed="true" score="27.0" evalue="5.7E-6" hmm-start="2" hmm-end="38" hmm-length="38" hmm-bounds="C_TERMINAL_COMPLETE" start="450" end="486">
+            <location-fragments>
+              <hmmer3-location-fragment start="450" end="486" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="7.4E-70" score="237.5">
+        <signature ac="G3DSA:2.130.10.10" name="">
+          <entry ac="IPR015943" desc="WD40/YVTN repeat-like-containing domain superfamily" name="WD40/YVTN_repeat-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.2.0"/>
+        </signature>
+        <model-ac>1r5mA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="508" env-start="401" post-processed="true" score="99.0" evalue="8.4E-28" hmm-start="208" hmm-end="303" hmm-length="392" hmm-bounds="C_TERMINAL_COMPLETE" start="405" end="508">
+            <location-fragments>
+              <hmmer3-location-fragment start="405" end="508" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="134" end="156">
+            <location-fragments>
+              <mobidblite-location-fragment start="134" end="156" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="175" end="203">
+            <location-fragments>
+              <mobidblite-location-fragment start="175" end="203" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="4.8E-90" familyName="Not available" score="314.4">
+        <signature ac="PTHR44156:SF14" name="F-BOX AND WD REPEAT DOMAIN-CONTAINING 7">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR44156:SF14</model-ac>
+        <locations>
+          <panther-location env-start="286" env-end="702" hmm-start="21" hmm-end="418" hmm-length="473" hmm-bounds="INCOMPLETE" start="303" end="701">
+            <location-fragments>
+              <panther-location-fragment start="303" end="701" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="4.8E-90" familyName="Not available" score="314.4">
+        <signature ac="PTHR44156" name="FAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR44156</model-ac>
+        <locations>
+          <panther-location env-start="286" env-end="702" hmm-start="21" hmm-end="418" hmm-length="473" hmm-bounds="INCOMPLETE" start="303" end="701">
+            <location-fragments>
+              <panther-location-fragment start="303" end="701" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <patternscan-match>
+        <signature ac="PS00678" desc="Trp-Asp (WD) repeats signature." name="WD_REPEATS_1">
+          <entry ac="IPR019775" desc="WD40 repeat, conserved site" name="WD40_repeat_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00678</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="513" end="527">
+            <location-fragments>
+              <patternscan-location-fragment start="513" end="527" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>LVSGssDkTAKIWNI</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00678" desc="Trp-Asp (WD) repeats signature." name="WD_REPEATS_1">
+          <entry ac="IPR019775" desc="WD40 repeat, conserved site" name="WD40_repeat_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00678</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="686" end="700">
+            <location-fragments>
+              <patternscan-location-fragment start="686" end="700" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>IISVsyDqRVRVWDF</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00678" desc="Trp-Asp (WD) repeats signature." name="WD_REPEATS_1">
+          <entry ac="IPR019775" desc="WD40 repeat, conserved site" name="WD40_repeat_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00678</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="432" end="446">
+            <location-fragments>
+              <patternscan-location-fragment start="432" end="446" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>VATGslDrTIKIWDA</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00678" desc="Trp-Asp (WD) repeats signature." name="WD_REPEATS_1">
+          <entry ac="IPR019775" desc="WD40 repeat, conserved site" name="WD40_repeat_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00678</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="555" end="569">
+            <location-fragments>
+              <patternscan-location-fragment start="555" end="569" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>AFTGsgDrTVRVWEV</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <profilescan-match>
+        <signature ac="PS50082" desc="Trp-Asp (WD) repeats profile." name="WD_REPEATS_2">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50082</model-ac>
+        <locations>
+          <profilescan-location score="10.676" start="496" end="535">
+            <location-fragments>
+              <profilescan-location-fragment start="496" end="535" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>LISHDGPVWAIERKGD--FLVSGSSDKTAKIWNIRQCKLLFS</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50181" desc="F-box domain profile." name="FBOX">
+          <entry ac="IPR001810" desc="F-box domain" name="F-box_dom" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50181</model-ac>
+        <locations>
+          <profilescan-location score="12.438" start="329" end="375">
+            <location-fragments>
+              <profilescan-location-fragment start="329" end="375" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>RDFIAMLPEQLAIRIFSFLVPKELLVVCQVSKTWRRLASKDELWKAK</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50082" desc="Trp-Asp (WD) repeats profile." name="WD_REPEATS_2">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50082</model-ac>
+        <locations>
+          <profilescan-location score="9.94" start="645" end="668">
+            <location-fragments>
+              <profilescan-location-fragment start="645" end="668" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>------------------LIVSAGKDGLIKYWDIEQGSCIQT</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50082" desc="Trp-Asp (WD) repeats profile." name="WD_REPEATS_2">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50082</model-ac>
+        <locations>
+          <profilescan-location score="12.614" start="536" end="577">
+            <location-fragments>
+              <profilescan-location-fragment start="536" end="577" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>LMGHNGCVFCVDLDNECKKAFTGSGDRTVRVWEVSSGVCLLS</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50082" desc="Trp-Asp (WD) repeats profile." name="WD_REPEATS_2">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50082</model-ac>
+        <locations>
+          <profilescan-location score="12.981" start="669" end="702">
+            <location-fragments>
+              <profilescan-location-fragment start="669" end="702" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>LKGHKDNVNCIHVDST--RIISVSYDQRVRVWDFNS------</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50082" desc="Trp-Asp (WD) repeats profile." name="WD_REPEATS_2">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50082</model-ac>
+        <locations>
+          <profilescan-location score="13.382" start="455" end="495">
+            <location-fragments>
+              <profilescan-location-fragment start="455" end="495" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>FQGHTRGIWSLRFLSS-SILISGSYDKTIRLWSLRTNMCVRI</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50082" desc="Trp-Asp (WD) repeats profile." name="WD_REPEATS_2">
+          <entry ac="IPR001680" desc="WD40 repeat" name="WD40_repeat" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50082</model-ac>
+        <locations>
+          <profilescan-location score="13.215" start="415" end="454">
+            <location-fragments>
+              <profilescan-location-fragment start="415" end="454" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>MSGHTHNVLSVCAYKN--YVATGSLDRTIKIWDAKSGTLLLT</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS50294" desc="Trp-Asp (WD) repeats circular profile." name="WD_REPEATS_REGION">
+          <entry ac="IPR017986" desc="WD40-repeat-containing domain" name="WD40_repeat_dom" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2019_11"/>
+        </signature>
+        <model-ac>PS50294</model-ac>
+        <locations>
+          <profilescan-location score="55.393" start="415" end="702">
+            <location-fragments>
+              <profilescan-location-fragment start="415" end="702" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>MSGHTHNVLSVCAYKN--YVATGSLDRTIKIWDAKSGTLLLTFQGHTRGIWSLRFLSS-SILISGSYDKTIRLWSLRTNMCVRILISHDGPVWAIERKGD--FLVSGSSDKTAKIWNIRQCKLLFSLMGHNGCVFCVDLDNECKKAFTGSGDRTVRVWEVSSGVCLLSfniGLLSGSTVTAVSFDQG---HVVVGSGQLVSLWNLETGACVNEFKGHKGRIESIKLKFImvngkkeAGLIVSAGKDGLIKYWDIEQGSCIQTLKGHKDNVNCIHVDST--RIISVSYDQRVRVWDFNS------</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd00200" desc="WD40" name="WD40">
+          <signature-library-release library="CDD" version="3.17"/>
+        </signature>
+        <model-ac>cd00200</model-ac>
+        <locations>
+          <rpsblast-location evalue="1.82304E-63" score="211.039" start="417" end="699">
+            <location-fragments>
+              <rpsblast-location-fragment start="417" end="699" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="structural tetrad" numLocations="38">
+                <site-locations>
+                  <site-location residue="H" start="623" end="623"/>
+                  <site-location residue="S" start="498" end="498"/>
+                  <site-location residue="W" start="609" end="609"/>
+                  <site-location residue="N" start="610" end="610"/>
+                  <site-location residue="D" start="699" end="699"/>
+                  <site-location residue="G" start="585" end="585"/>
+                  <site-location residue="G" start="457" end="457"/>
+                  <site-location residue="G" start="671" end="671"/>
+                  <site-location residue="W" start="567" end="567"/>
+                  <site-location residue="F" start="556" end="556"/>
+                  <site-location residue="D" start="561" end="561"/>
+                  <site-location residue="V" start="514" end="514"/>
+                  <site-location residue="T" start="434" end="434"/>
+                  <site-location residue="V" start="600" end="600"/>
+                  <site-location residue="H" start="539" end="539"/>
+                  <site-location residue="E" start="568" end="568"/>
+                  <site-location residue="D" start="659" end="659"/>
+                  <site-location residue="H" start="458" end="458"/>
+                  <site-location residue="D" start="692" end="692"/>
+                  <site-location residue="W" start="698" end="698"/>
+                  <site-location residue="V" start="647" end="647"/>
+                  <site-location residue="W" start="525" end="525"/>
+                  <site-location residue="N" start="526" end="526"/>
+                  <site-location residue="D" start="519" end="519"/>
+                  <site-location residue="H" start="499" end="499"/>
+                  <site-location residue="D" start="445" end="445"/>
+                  <site-location residue="S" start="475" end="475"/>
+                  <site-location residue="D" start="438" end="438"/>
+                  <site-location residue="S" start="486" end="486"/>
+                  <site-location residue="W" start="444" end="444"/>
+                  <site-location residue="D" start="652" end="652"/>
+                  <site-location residue="H" start="418" end="418"/>
+                  <site-location residue="W" start="658" end="658"/>
+                  <site-location residue="W" start="485" end="485"/>
+                  <site-location residue="D" start="479" end="479"/>
+                  <site-location residue="H" start="672" end="672"/>
+                  <site-location residue="G" start="622" end="622"/>
+                  <site-location residue="S" start="688" end="688"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="9.16E-64">
+        <signature ac="SSF50978" name="WD40 repeat-like">
+          <entry ac="IPR036322" desc="WD40-repeat-containing domain superfamily" name="WD40_repeat_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0048349</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="355" start="413" end="701">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="413" end="701" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="4.58E-17">
+        <signature ac="SSF81383" name="F-box domain">
+          <entry ac="IPR036047" desc="F-box-like domain superfamily" name="F-box-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0041352</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="100" start="329" end="408">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="329" end="408" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

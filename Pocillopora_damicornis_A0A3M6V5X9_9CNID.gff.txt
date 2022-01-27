@@ -1,0 +1,149 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Pocillopora_damicornis_A0A3M6V5X9_9CNID 1 333
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	.	polypeptide	1	333	.	+	.	ID=Pocillopora_damicornis_A0A3M6V5X9_9CNID;md5=d630be07256611689bfaeb38e2a88da7
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	230	240	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 230 240;ID=match$1_230_240;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	1	21	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 1 21;ID=match$2_1_21;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	241	263	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 241 263;ID=match$3_241_263;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	206	228	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 206 228;ID=match$4_206_228;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	ProSiteProfiles	protein_match	39	261	22.979	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 39 261;Ontology_term="GO:0016021";ID=match$5_39_261;signature_desc=G-protein coupled receptors family 1 profile.;Name=PS50262;status=T;Dbxref="InterPro:IPR017452"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	191	209	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 191 209;ID=match$6_191_209;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.;Name=CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Pfam	protein_match	39	261	6.9E-25	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 39 261;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$7_39_261;signature_desc=7 transmembrane receptor (rhodopsin family);Name=PF00001;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PRINTS	protein_match	24	48	1.7E-21	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 24 48;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$8_24_48;signature_desc=Rhodopsin-like GPCR superfamily signature;Name=PR00237;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PRINTS	protein_match	57	78	1.7E-21	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 57 78;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$8_57_78;signature_desc=Rhodopsin-like GPCR superfamily signature;Name=PR00237;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PRINTS	protein_match	99	121	1.7E-21	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 99 121;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$8_99_121;signature_desc=Rhodopsin-like GPCR superfamily signature;Name=PR00237;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PRINTS	protein_match	134	155	1.7E-21	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 134 155;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$8_134_155;signature_desc=Rhodopsin-like GPCR superfamily signature;Name=PR00237;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PRINTS	protein_match	243	269	1.7E-21	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 243 269;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$8_243_269;signature_desc=Rhodopsin-like GPCR superfamily signature;Name=PR00237;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PANTHER	protein_match	6	279	2.2E-45	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 6 279;ID=match$9_6_279;Name=PTHR24246:SF27;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	CDD	protein_match	26	271	2.40994E-31	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 26 271;ID=match$10_26_271;signature_desc=7tmA_amine_R-like;Name=cd14967;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	135	158	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 135 158;ID=match$11_135_158;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	241	263	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 241 263;ID=match$12_241_263;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	PANTHER	protein_match	6	279	2.2E-45	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 6 279;ID=match$13_6_279;Name=PTHR24246;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	SMART	protein_match	33	276	6.4E-4	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 33 276;Ontology_term="GO:0004930","GO:0007186","GO:0016021";ID=match$14_33_276;Name=SM01381;status=T;Dbxref="InterPro:IPR000276"
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	61	83	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 61 83;ID=match$15_61_83;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	93	115	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 93 115;ID=match$16_93_115;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Gene3D	protein_match	1	278	7.2E-42	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 1 278;ID=match$17_1_278;Name=G3DSA:1.20.1070.10;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	135	157	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 135 157;ID=match$18_135_157;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	159	169	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 159 169;ID=match$19_159_169;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	22	47	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 22 47;ID=match$20_22_47;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	167	189	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 167 189;ID=match$21_167_189;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	SUPERFAMILY	protein_match	18	291	2.93E-42	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 18 291;ID=match$22_18_291;Name=SSF81321;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	210	229	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 210 229;ID=match$23_210_229;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	116	134	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 116 134;ID=match$24_116_134;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.;Name=CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	264	333	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 264 333;ID=match$25_264_333;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.;Name=CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	170	190	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 170 190;ID=match$26_170_190;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	59	81	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 59 81;ID=match$27_59_81;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	93	115	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 93 115;ID=match$28_93_115;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	48	58	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 48 58;ID=match$29_48_58;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.;Name=CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	TMHMM	protein_match	26	48	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 26 48;ID=match$30_26_48;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	Phobius	protein_match	82	92	.	+	.	date=08-11-2020;Target=Pocillopora_damicornis_A0A3M6V5X9_9CNID 82 92;ID=match$31_82_92;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+##FASTA
+>Pocillopora_damicornis_A0A3M6V5X9_9CNID
+MQNSTVKSSDDDISQSTRKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYL
+IISLALADLCIGLIVLPLWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYA
+TMLPWRHRATPKPQVLFFIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLV
+ICGSYSALFVKMRRTDRRRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNN
+LFLNIMSFFNFGNSLVNPFLYAFRMPDFRKAVCSLFGIYHQDQQTRQSHETIAHLSERAP
+PSFALRELSTAVSSRISPVARLPEAVDKLSELK
+>match$1_230_240
+KYFALNRKTNN
+>match$2_1_21
+MQNSTVKSSDDDISQSTRKIE
+>match$3_241_263
+LFLNIMSFFNFGNSLVNPFLYAF
+>match$4_206_228
+LTVTLFMATVFSIVAYLPMVVLG
+>match$5_39_261
+GNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGELWQTITFLTL
+DMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLFFIASIWTLSAVITSSYAVALF
+AYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDRRRSDRERKLTVTLFMATVFSI
+VAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVNPFLY
+>match$6_191_209
+KMRRTDRRRSDRERKLTVT
+>match$7_39_261
+GNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGELWQTITFLTL
+DMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLFFIASIWTLSAVITSSYAVALF
+AYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDRRRSDRERKLTVTLFMATVFSI
+VAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVNPFLY
+>match$8_24_48
+TWCTVFAIEAFVTVIGNLLIVIIFA
+>match$8_57_78
+SSYLIISLALADLCIGLIVLPL
+>match$8_99_121
+DMFASVASISNLAAISLERLYAT
+>match$8_134_155
+QVLFFIASIWTLSAVITSSYAV
+>match$8_243_269
+LNIMSFFNFGNSLVNPFLYAFRMPDFR
+>match$9_6_279
+VKSSDDDISQSTRKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYLIISLA
+LADLCIGLIVLPLWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYATMLPW
+RHRATPKPQVLFFIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLVICGSY
+SALFVKMRRTDRRRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNI
+MSFFNFGNSLVNPFLYAFRMPDFRKAVCSLFGIY
+>match$10_26_271
+CTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTG
+LGELWQTITFLTLDMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLFFIASIWTL
+SAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDRRRSDRERK
+LTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVNPFLYAFRM
+PDFRKA
+>match$11_135_158
+VLFFIASIWTLSAVITSSYAVALF
+>match$12_241_263
+LFLNIMSFFNFGNSLVNPFLYAF
+>match$13_6_279
+VKSSDDDISQSTRKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYLIISLA
+LADLCIGLIVLPLWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYATMLPW
+RHRATPKPQVLFFIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLVICGSY
+SALFVKMRRTDRRRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNI
+MSFFNFGNSLVNPFLYAFRMPDFRKAVCSLFGIY
+>match$14_33_276
+AFVTVIGNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLPLWIYQVTGLGELWQT
+ITFLTLDMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLFFIASIWTLSAVITSS
+YAVALFAYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDRRRSDRERKLTVTLFM
+ATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVNPFLYAFRMPDFRKAV
+CSLF
+>match$15_61_83
+IISLALADLCIGLIVLPLWIYQV
+>match$16_93_115
+ITFLTLDMFASVASISNLAAISL
+>match$17_1_278
+MQNSTVKSSDDDISQSTRKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYL
+IISLALADLCIGLIVLPLWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYA
+TMLPWRHRATPKPQVLFFIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLV
+ICGSYSALFVKMRRTDRRRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNN
+LFLNIMSFFNFGNSLVNPFLYAFRMPDFRKAVCSLFGI
+>match$18_135_157
+VLFFIASIWTLSAVITSSYAVAL
+>match$19_159_169
+AYSSPLGSLFP
+>match$20_22_47
+VATWCTVFAIEAFVTVIGNLLIVIIF
+>match$21_167_189
+LFPWLPYICLLLLVICGSYSALF
+>match$22_18_291
+RKIEVATWCTVFAIEAFVTVIGNLLIVIIFARDYRLRKPSSYLIISLALADLCIGLIVLP
+LWIYQVTGLGELWQTITFLTLDMFASVASISNLAAISLERLYATMLPWRHRATPKPQVLF
+FIASIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYICLLLLVICGSYSALFVKMRRTDR
+RRSDRERKLTVTLFMATVFSIVAYLPMVVLGVKYFALNRKTNNLFLNIMSFFNFGNSLVN
+PFLYAFRMPDFRKAVCSLFGIYHQDQQTRQSHET
+>match$23_210_229
+LFMATVFSIVAYLPMVVLGV
+>match$24_116_134
+ERLYATMLPWRHRATPKPQ
+>match$25_264_333
+RMPDFRKAVCSLFGIYHQDQQTRQSHETIAHLSERAPPSFALRELSTAVSSRISPVARLP
+EAVDKLSELK
+>match$26_170_190
+WLPYICLLLLVICGSYSALFV
+>match$27_59_81
+YLIISLALADLCIGLIVLPLWIY
+>match$28_93_115
+ITFLTLDMFASVASISNLAAISL
+>match$29_48_58
+ARDYRLRKPSS
+>match$30_26_48
+CTVFAIEAFVTVIGNLLIVIIFA
+>match$31_82_92
+QVTGLGELWQT
