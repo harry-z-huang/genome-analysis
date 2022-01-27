@@ -1,0 +1,27 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Strongylocentrotus_purpuratus_W4XMK7_STRPU 1 175
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	.	polypeptide	1	175	.	+	.	ID=Strongylocentrotus_purpuratus_W4XMK7_STRPU;md5=835833228fd8fb1b033870c77c2b6503
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	MobiDBLite	protein_match	86	101	.	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4XMK7_STRPU 86 101;ID=match$1_86_101;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	MobiDBLite	protein_match	53	117	.	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4XMK7_STRPU 53 117;ID=match$2_53_117;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	Pfam	protein_match	5	158	9.1E-40	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4XMK7_STRPU 5 158;ID=match$3_5_158;signature_desc=Uncharacterised protein family (UPF0193);Name=PF05250;status=T;Dbxref="InterPro:IPR007914"
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	PANTHER	protein_match	3	159	1.6E-41	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4XMK7_STRPU 3 159;ID=match$4_3_159;Name=PTHR28348;status=T;Dbxref="InterPro:IPR007914"
+##FASTA
+>Strongylocentrotus_purpuratus_W4XMK7_STRPU
+MSAKKENKSFGMWNTQTPSYSKETQELLKVMMKESKLNNFQARQLQKTMKDGAALPLACN
+PTTSARPAQPLLPQKPSIRVNPKGYGKGVRTKEDIEDSGAYERDMYTGGGVTKSLDKEKE
+RLQNYMAYGEDIPPISEERKREVLKTPEPEPMIDRFADCKYSLVKETGQRFMKPS
+>match$1_86_101
+GKGVRTKEDIEDSGAY
+>match$2_53_117
+AALPLACNPTTSARPAQPLLPQKPSIRVNPKGYGKGVRTKEDIEDSGAYERDMYTGGGVT
+KSLDK
+>match$3_5_158
+KENKSFGMWNTQTPSYSKETQELLKVMMKESKLNNFQARQLQKTMKDGAALPLACNPTTS
+ARPAQPLLPQKPSIRVNPKGYGKGVRTKEDIEDSGAYERDMYTGGGVTKSLDKEKERLQN
+YMAYGEDIPPISEERKREVLKTPEPEPMIDRFAD
+>match$4_3_159
+AKKENKSFGMWNTQTPSYSKETQELLKVMMKESKLNNFQARQLQKTMKDGAALPLACNPT
+TSARPAQPLLPQKPSIRVNPKGYGKGVRTKEDIEDSGAYERDMYTGGGVTKSLDKEKERL
+QNYMAYGEDIPPISEERKREVLKTPEPEPMIDRFADC

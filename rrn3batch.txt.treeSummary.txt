@@ -1,0 +1,2 @@
+GT name	Possible	Optimal	Saved
+myhomologs.renamed.aligned.r50.fullboot.midpoint.treefile	25	1	1

@@ -1,0 +1,300 @@
+BLASTP 2.10.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: /home/ec2-user/data/blast/allprotein.fas
+           112,261 sequences; 56,506,597 total letters
+
+
+
+Query= XP_032221022.1 RNA polymerase I-specific transcription initiation
+factor RRN3-like [Nematostella vectensis]
+
+Length=151
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Nematostella_XP_032221022.1 unnamed protein product                   314     1e-111
+Nematostella_XP_032225881.1 unnamed protein product                   290     1e-95 
+Nematostella_XP_032221138.1 unnamed protein product                   249     6e-80 
+A0A3M6TY46|A0A3M6TY46_9CNID Uncharacterized protein OS=Pocillopor...  93.6    3e-22 
+W4XX55|W4XX55_STRPU Uncharacterized protein OS=Strongylocentrotus...  86.7    3e-20 
+Q9NYV6|RRN3_HUMAN RNA polymerase I-specific transcription initiat...  86.7    6e-20 
+Q9V9M6|Q9V9M6_DROME LD10456p OS=Drosophila melanogaster (Fruit fl...  53.1    3e-08 
+A0A3M6TPZ0|A0A3M6TPZ0_9CNID Uncharacterized protein OS=Pocillopor...  31.2    0.96  
+A0A3M6V5X9|A0A3M6V5X9_9CNID G_PROTEIN_RECEP_F1_2 domain-containin...  29.6    2.7   
+A0A3M6TV88|A0A3M6TV88_9CNID Cnd1 domain-containing protein OS=Poc...  29.6    3.9   
+W4XMK7|W4XMK7_STRPU Uncharacterized protein OS=Strongylocentrotus...  28.5    5.6   
+W4Y3R2|W4Y3R2_STRPU Uncharacterized protein OS=Strongylocentrotus...  28.5    5.6   
+Nematostella_XP_032239229.1 unnamed protein product                   28.5    7.1   
+W4Z7T7|W4Z7T7_STRPU Uncharacterized protein OS=Strongylocentrotus...  28.5    8.5   
+
+
+>Nematostella_XP_032221022.1 unnamed protein product
+Length=151
+
+ Score = 314 bits (805),  Expect = 1e-111, Method: Compositional matrix adjust.
+ Identities = 151/151 (100%), Positives = 151/151 (100%), Gaps = 0/151 (0%)
+
+Query  1    MLDNIQHYLFFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFF  60
+            MLDNIQHYLFFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFF
+Sbjct  1    MLDNIQHYLFFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFF  60
+
+Query  61   PFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPT  120
+            PFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPT
+Sbjct  61   PFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPT  120
+
+Query  121  PDIAMSVSPGFALSPNSAIELEHRLQRRTAR  151
+            PDIAMSVSPGFALSPNSAIELEHRLQRRTAR
+Sbjct  121  PDIAMSVSPGFALSPNSAIELEHRLQRRTAR  151
+
+
+>Nematostella_XP_032225881.1 unnamed protein product
+Length=625
+
+ Score = 290 bits (741),  Expect = 1e-95, Method: Compositional matrix adjust.
+ Identities = 137/142 (96%), Positives = 139/142 (98%), Gaps = 0/142 (0%)
+
+Query  10   FFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR  69
+             F+  T+LHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR
+Sbjct  484  LFAQVTKLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR  543
+
+Query  70   SSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSP  129
+            SSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSP
+Sbjct  544  SSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSP  603
+
+Query  130  GFALSPNSAIELEHRLQRRTAR  151
+            GFALSPNSAIELEHRLQRRTAR
+Sbjct  604  GFALSPNSAIELEHRLQRRTAR  625
+
+
+>Nematostella_XP_032221138.1 unnamed protein product
+Length=625
+
+ Score = 249 bits (636),  Expect = 6e-80, Method: Compositional matrix adjust.
+ Identities = 135/142 (95%), Positives = 138/142 (97%), Gaps = 0/142 (0%)
+
+Query  10   FFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR  69
+             F+  T+LHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR
+Sbjct  484  LFAQVTKLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR  543
+
+Query  70   SSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIPDPTPDIAMSVSP  129
+            SSKYVKPHYQEWKGVGEEHALLEDHQDDESE+EDDYM YGKSPGVDIPDPTPDIAMSVSP
+Sbjct  544  SSKYVKPHYQEWKGVGEEHALLEDHQDDESEDEDDYMEYGKSPGVDIPDPTPDIAMSVSP  603
+
+Query  130  GFALSPNSAIELEHRLQRRTAR  151
+            GFALSPNSAIELEHRLQRRTAR
+Sbjct  604  GFALSPNSAIELEHRLQRRTAR  625
+
+
+>A0A3M6TY46|A0A3M6TY46_9CNID Uncharacterized protein OS=Pocillopora damicornis OX=46731 GN=pdam_00000593 
+PE=3 SV=1
+Length=759
+
+ Score = 93.6 bits (231),  Expect = 3e-22, Method: Compositional matrix adjust.
+ Identities = 41/73 (56%), Positives = 55/73 (75%), Gaps = 1/73 (1%)
+
+Query  10   FFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR  69
+             F+  TR +++V CYT+IE+N R MLPV++   S+  +  LS QN LDS+FPFDPYLL+R
+Sbjct  550  LFAYITRHYELVFCYTIIEQNNRMMLPVATT-ASSHAVRSLSFQNQLDSYFPFDPYLLKR  608
+
+Query  70   SSKYVKPHYQEWK  82
+            SSK++KP Y EWK
+Sbjct  609  SSKFIKPLYHEWK  621
+
+
+>W4XX55|W4XX55_STRPU Uncharacterized protein OS=Strongylocentrotus purpuratus (Purple 
+sea urchin) OX=7668 GN=SPU_008017 PE=3 SV=1
+Length=351
+
+ Score = 86.7 bits (213),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 55/128 (43%), Positives = 77/128 (60%), Gaps = 5/128 (4%)
+
+Query  11   FSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRS  70
+            F+   R  QV  CYTV+E N RS LPV   + +  + +  +  NPLDSFFPFDPY+L +S
+Sbjct  225  FATLARKFQVAFCYTVMEHNARSKLPVFK-LNTFGSGAMATPGNPLDSFFPFDPYVLPQS  283
+
+Query  71   SKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPGVDIP-DPTPDIAMSVSP  129
+               ++  Y+ W+G   + + LE   DD SE+E+++M Y +S   DIP   TP  A  +SP
+Sbjct  284  GVDIEKLYRHWEGCKPDFSGLEPAVDD-SEDEEEFMQY-ESVDKDIPLGLTPTSAACISP  341
+
+Query  130  GFALSPNS  137
+            GF  SP+S
+Sbjct  342  GFR-SPSS  348
+
+
+>Q9NYV6|RRN3_HUMAN RNA polymerase I-specific transcription initiation factor RRN3 
+OS=Homo sapiens (Human) OX=9606 GN=RRN3 PE=1 SV=1
+Length=651
+
+ Score = 86.7 bits (213),  Expect = 6e-20, Method: Compositional matrix adjust.
+ Identities = 44/108 (41%), Positives = 63/108 (58%), Gaps = 4/108 (4%)
+
+Query  10   FFSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRR  69
+            FF+  T  +Q+V CYT+IERN R MLPV  +     ++   +  NPLD+FFPFDP +L+R
+Sbjct  512  FFAAITNKYQLVFCYTIIERNNRQMLPVIRSTAGGDSVQICT--NPLDTFFPFDPCVLKR  569
+
+Query  70   SSKYVKPHYQEWKGVGEE--HALLEDHQDDESEEEDDYMGYGKSPGVD  115
+            S K++ P YQ W+ +  E      +  + D  E+EDD    G+ P  D
+Sbjct  570  SKKFIDPIYQVWEDMSAEELQEFKKPMKKDIVEDEDDDFLKGEVPQND  617
+
+
+>Q9V9M6|Q9V9M6_DROME LD10456p OS=Drosophila melanogaster (Fruit fly) OX=7227 GN=Tif-IA 
+PE=2 SV=3
+Length=611
+
+ Score = 53.1 bits (126),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 33/110 (30%), Positives = 57/110 (52%), Gaps = 14/110 (13%)
+
+Query  11   FSLRTRLHQVVLCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRS  70
+            F+  TR +Q+  C+TV+ERN R  L  ++     + +        L+SFFPFDPY+L+ S
+Sbjct  487  FAGVTRTYQLAYCHTVLERNARRKL--ATVYGHEKCMPD----ETLESFFPFDPYVLKLS  540
+
+Query  71   SKYVKPHYQEWKGVGEEHALLEDHQ--------DDESEEEDDYMGYGKSP  112
+             KY++ +Y  ++    +  +   ++        D E  EED+++   K P
+Sbjct  541  KKYIETNYMVYQSNDTDEYVYGSNKYGHSRKRGDSEMLEEDEFLIVDKRP  590
+
+
+>A0A3M6TPZ0|A0A3M6TPZ0_9CNID Uncharacterized protein OS=Pocillopora damicornis OX=46731 GN=pdam_00001951 
+PE=4 SV=1
+Length=702
+
+ Score = 31.2 bits (69),  Expect = 0.96, Method: Composition-based stats.
+ Identities = 22/75 (29%), Positives = 33/75 (44%), Gaps = 7/75 (9%)
+
+Query  55   PLDSFFPFDPYLLRRSSKYV-KPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPG  113
+            P  SF P    L R   K + KP Y+ WK    E A+L D ++ ++      +   KSP 
+Sbjct  75   PRSSFSPVSTPLCREVHKKLGKPRYRAWKLHRVESAILHDEEEVKAWTSTAVLPIVKSPS  134
+
+Query  114  VDIPD------PTPD  122
+            +  P       P+P+
+Sbjct  135  LASPSRQTKRTPSPE  149
+
+
+>A0A3M6V5X9|A0A3M6V5X9_9CNID G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Pocillopora 
+damicornis OX=46731 GN=pdam_00007361 PE=4 SV=1
+Length=333
+
+ Score = 29.6 bits (65),  Expect = 2.7, Method: Compositional matrix adjust.
+ Identities = 12/34 (35%), Positives = 22/34 (65%), Gaps = 0/34 (0%)
+
+Query  33   SMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYL  66
+            S+  +S+ ITS+  ++  +  +PL S FP+ PY+
+Sbjct  141  SIWTLSAVITSSYAVALFAYSSPLGSLFPWLPYI  174
+
+
+>A0A3M6TV88|A0A3M6TV88_9CNID Cnd1 domain-containing protein OS=Pocillopora damicornis OX=46731 
+GN=pdam_00000748 PE=4 SV=1
+Length=1306
+
+ Score = 29.6 bits (65),  Expect = 3.9, Method: Compositional matrix adjust.
+ Identities = 28/79 (35%), Positives = 41/79 (52%), Gaps = 7/79 (9%)
+
+Query  2    LDNIQHYLFFSLR---TRLHQVV--LCYTVIERNKRSMLPV-SSAITSNRTISQLSLQNP  55
+            + +I    +F LR   + LH  V  + +TV E    ++L V   AI SN TIS+ ++QN 
+Sbjct  203  IKSIASLAYFGLRVICSPLHGDVGTITHTVFEHLISNVLMVFGGAIASNGTISR-NVQNI  261
+
+Query  56   LDSFFPFDPYLLRRSSKYV  74
+             D    F  YL R+ +K V
+Sbjct  262  KDQAVAFICYLARKETKEV  280
+
+
+>W4XMK7|W4XMK7_STRPU Uncharacterized protein OS=Strongylocentrotus purpuratus (Purple 
+sea urchin) OX=7668 GN=SPU_004638 PE=4 SV=1
+Length=175
+
+ Score = 28.5 bits (62),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 21/62 (34%), Positives = 28/62 (45%), Gaps = 5/62 (8%)
+
+Query  54   NPLDSFFPFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPG  113
+            NP  S  P  P L ++ S  V P     KG G+     ED +D  + E D Y G G +  
+Sbjct  60   NPTTSARPAQPLLPQKPSIRVNP-----KGYGKGVRTKEDIEDSGAYERDMYTGGGVTKS  114
+
+Query  114  VD  115
+            +D
+Sbjct  115  LD  116
+
+
+>W4Y3R2|W4Y3R2_STRPU Uncharacterized protein OS=Strongylocentrotus purpuratus (Purple 
+sea urchin) OX=7668 GN=SPU_010349 PE=4 SV=1
+Length=171
+
+ Score = 28.5 bits (62),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 21/62 (34%), Positives = 28/62 (45%), Gaps = 5/62 (8%)
+
+Query  54   NPLDSFFPFDPYLLRRSSKYVKPHYQEWKGVGEEHALLEDHQDDESEEEDDYMGYGKSPG  113
+            NP  S  P  P L ++ S  V P     KG G+     ED +D  + E D Y G G +  
+Sbjct  29   NPTTSARPAQPLLPQKPSVRVNP-----KGYGKGVRTKEDIEDSGAYERDMYTGGGVTKS  83
+
+Query  114  VD  115
+            +D
+Sbjct  84   LD  85
+
+
+>Nematostella_XP_032239229.1 unnamed protein product
+Length=327
+
+ Score = 28.5 bits (62),  Expect = 7.1, Method: Compositional matrix adjust.
+ Identities = 13/27 (48%), Positives = 19/27 (70%), Gaps = 0/27 (0%)
+
+Query  26  VIERNKRSMLPVSSAITSNRTISQLSL  52
+           V +  KR ++P+S A TSN T++Q SL
+Sbjct  39  VAQPGKRLLVPISGANTSNETVTQKSL  65
+
+
+>W4Z7T7|W4Z7T7_STRPU Uncharacterized protein OS=Strongylocentrotus purpuratus (Purple 
+sea urchin) OX=7668 GN=SPU_024206 PE=4 SV=1
+Length=325
+
+ Score = 28.5 bits (62),  Expect = 8.5, Method: Compositional matrix adjust.
+ Identities = 34/125 (27%), Positives = 49/125 (39%), Gaps = 11/125 (9%)
+
+Query  14   RTRLHQVV-LCYTVIERNKRSMLPVSSAITSNRTISQLSLQNPLDSFFPFDPYLLRRSSK  72
+            RT LH +  L Y  I  N   +LP +  +   R +S L+LQ+      P D        K
+Sbjct  110  RTALHPIKDLMYLDISFNPHLVLPGTGLLRWARKLSNLNLQSSNLQSLPNDILKWSPRLK  169
+
+Query  73   YVKPHYQEWKGVG------EEHALLEDHQDDESEEEDDY----MGYGKSPGVDIPDPTPD  122
+            YV  +    K V        EH  L  +Q +    +D Y    +GY    G  I    P+
+Sbjct  170  YVGLYRNHLKVVNVSSCGTSEHVTLSYNQIEHINADDFYFVCHVGYLNLQGNPILSVDPN  229
+
+Query  123  IAMSV  127
+            +  S+
+Sbjct  230  VVASL  234
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.135    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2309305347
+
+
+  Database: /home/ec2-user/data/blast/allprotein.fas
+    Posted date:  Sep 26, 2020  3:43 AM
+  Number of letters in database: 56,506,597
+  Number of sequences in database:  112,261
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

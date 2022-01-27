@@ -1,0 +1,4 @@
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	MobiDBLite	mobidb-lite	consensus disorder prediction	86	101	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	MobiDBLite	mobidb-lite	consensus disorder prediction	53	117	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	Pfam	PF05250	Uncharacterised protein family (UPF0193)	5	158	9.1E-40	T	08-11-2020	IPR007914	Uncharacterised protein family UPF0193		
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	PANTHER	PTHR28348	UPF0193 PROTEIN EVG1	3	159	1.6E-41	T	08-11-2020	IPR007914	Uncharacterised protein family UPF0193		

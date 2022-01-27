@@ -1,0 +1,160 @@
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	430	447	-	T	08-11-2020
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	23	600	9.8E-125	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	40	553	9.3E-130	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	429	-	T	08-11-2020
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	23	600	9.8E-125	T	08-11-2020
+Drosophila_melanogaster_Q9V9M6_DROME	0b580da9cc43d2dc40169fd78b087e9e	611	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	448	611	-	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	MobiDBLite	mobidb-lite	consensus disorder prediction	624	651	-	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	MobiDBLite	mobidb-lite	consensus disorder prediction	624	643	-	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	55	585	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	18	642	0.0	T	08-11-2020
+Homo_sapiens_Q9NYV6_RRN3	bcec26f18ddc9ae5d30177ed7ca69cd1	651	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	18	642	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	MobiDBLite	mobidb-lite	consensus disorder prediction	85	129	-	T	08-11-2020
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	11	136	6.9E-30	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	11	84	2.3E-17	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_RRN3	f780d5a3d5e314c4316213a6ba2be84c	151	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	11	136	6.9E-30	T	08-11-2020
+Nematostella_vectensis_XP_032221138.1	435905d8aa957f37a1dcfc83338ef440	625	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	08-11-2020
+Nematostella_vectensis_XP_032221138.1	435905d8aa957f37a1dcfc83338ef440	625	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	52	558	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_XP_032221138.1	435905d8aa957f37a1dcfc83338ef440	625	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	1	610	0.0	T	08-11-2020
+Nematostella_vectensis_XP_032221138.1	435905d8aa957f37a1dcfc83338ef440	625	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	1	610	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_XP_032221138.1	435905d8aa957f37a1dcfc83338ef440	625	MobiDBLite	mobidb-lite	consensus disorder prediction	567	603	-	T	08-11-2020
+Nematostella_vectensis_XP_032221138.1	435905d8aa957f37a1dcfc83338ef440	625	MobiDBLite	mobidb-lite	consensus disorder prediction	7	37	-	T	08-11-2020
+Nematostella_vectensis_XP_032225881.1	e95bd0fc5d1ca819f6ebbc06894fc36d	625	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	1	610	0.0	T	08-11-2020
+Nematostella_vectensis_XP_032225881.1	e95bd0fc5d1ca819f6ebbc06894fc36d	625	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	1	610	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_XP_032225881.1	e95bd0fc5d1ca819f6ebbc06894fc36d	625	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	08-11-2020
+Nematostella_vectensis_XP_032225881.1	e95bd0fc5d1ca819f6ebbc06894fc36d	625	MobiDBLite	mobidb-lite	consensus disorder prediction	567	603	-	T	08-11-2020
+Nematostella_vectensis_XP_032225881.1	e95bd0fc5d1ca819f6ebbc06894fc36d	625	MobiDBLite	mobidb-lite	consensus disorder prediction	7	37	-	T	08-11-2020
+Nematostella_vectensis_XP_032225881.1	e95bd0fc5d1ca819f6ebbc06894fc36d	625	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	52	558	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	CDD	cd00054	EGF_CA	132	162	2.08083E-6	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	3	13	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SMART	SM00231	disc_4	164	323	2.1E-15	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Pfam	PF00754	F5/8 type C domain	182	320	1.5E-21	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSitePatterns	PS00022	EGF-like domain signature 1.	151	162	-	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	CDD	cd00057	FA58C	169	322	3.85542E-39	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	21	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSiteProfiles	PS50026	EGF-like domain profile.	125	163	19.649	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSiteProfiles	PS50022	Coagulation factors 5/8 type C domain (FA58C) profile.	165	323	32.451	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	PANTHER	PTHR24543	MULTICOPPER OXIDASE-RELATED	85	323	2.7E-42	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Gene3D	G3DSA:2.10.25.10	Laminin	126	161	6.2E-11	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	2	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Pfam	PF00008	EGF-like domain	129	161	1.6E-5	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	14	21	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SMART	SM00181	egf_5	128	163	7.2E-4	T	08-11-2020	IPR000742	EGF-like domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SUPERFAMILY	SSF57196	EGF/Laminin	128	165	4.43E-10	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSitePatterns	PS01286	Coagulation factors 5/8 type C domain (FA58C) signature 2.	307	323	-	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Gene3D	G3DSA:2.60.120.260	-	162	327	1.7E-44	T	08-11-2020	IPR008979	Galactose-binding-like domain superfamily		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	21	-	T	08-11-2020
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	SUPERFAMILY	SSF49785	Galactose-binding domain-like	165	324	1.02E-38	T	08-11-2020	IPR008979	Galactose-binding-like domain superfamily		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	ProSitePatterns	PS01285	Coagulation factors 5/8 type C domain (FA58C) signature 1.	211	240	-	T	08-11-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_vectensis_XP_032239229.1	19efb9df29d9d6ae8a1889fd94fa505a	327	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	22	327	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50082	Trp-Asp (WD) repeats profile.	496	535	10.676	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00256	fbox_2	335	375	2.3E-7	T	08-11-2020	IPR001810	F-box domain	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	PANTHER	PTHR44156:SF14	F-BOX AND WD REPEAT DOMAIN-CONTAINING 7	303	701	4.8E-90	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SUPERFAMILY	SSF50978	WD40 repeat-like	413	701	9.16E-64	T	08-11-2020	IPR036322	WD40-repeat-containing domain superfamily	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF12937	F-box-like	334	376	4.2E-10	T	08-11-2020	IPR001810	F-box domain	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50181	F-box domain profile.	329	375	12.438	T	08-11-2020	IPR001810	F-box domain	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSitePatterns	PS00678	Trp-Asp (WD) repeats signature.	513	527	-	T	08-11-2020	IPR019775	WD40 repeat, conserved site		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50082	Trp-Asp (WD) repeats profile.	645	668	9.94	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	MobiDBLite	mobidb-lite	consensus disorder prediction	134	156	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSitePatterns	PS00678	Trp-Asp (WD) repeats signature.	686	700	-	T	08-11-2020	IPR019775	WD40 repeat, conserved site		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50082	Trp-Asp (WD) repeats profile.	536	577	12.614	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Gene3D	G3DSA:1.20.1280.50	-	315	404	5.3E-21	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Gene3D	G3DSA:2.130.10.10	-	509	702	3.6E-48	T	08-11-2020	IPR015943	WD40/YVTN repeat-like-containing domain superfamily	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	CDD	cd00200	WD40	417	699	1.82304E-63	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	MobiDBLite	mobidb-lite	consensus disorder prediction	175	203	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SUPERFAMILY	SSF81383	F-box domain	329	408	4.58E-17	T	08-11-2020	IPR036047	F-box-like domain superfamily	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSitePatterns	PS00678	Trp-Asp (WD) repeats signature.	432	446	-	T	08-11-2020	IPR019775	WD40 repeat, conserved site		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	PANTHER	PTHR44156	-	303	701	4.8E-90	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSitePatterns	PS00678	Trp-Asp (WD) repeats signature.	555	569	-	T	08-11-2020	IPR019775	WD40 repeat, conserved site		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF00400	WD domain, G-beta repeat	492	526	4.7E-5	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF00400	WD domain, G-beta repeat	614	659	0.032	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF00400	WD domain, G-beta repeat	663	699	9.8E-6	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF00400	WD domain, G-beta repeat	531	567	9.2E-4	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF00400	WD domain, G-beta repeat	413	445	1.1E-4	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Pfam	PF00400	WD domain, G-beta repeat	450	486	5.7E-6	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50082	Trp-Asp (WD) repeats profile.	669	702	12.981	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50082	Trp-Asp (WD) repeats profile.	455	495	13.382	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	PRINTS	PR00320	G protein beta WD-40 repeat signature	432	446	3.3E-8	T	08-11-2020	IPR020472	G-protein beta WD-40 repeat		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	PRINTS	PR00320	G protein beta WD-40 repeat signature	473	487	3.3E-8	T	08-11-2020	IPR020472	G-protein beta WD-40 repeat		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	PRINTS	PR00320	G protein beta WD-40 repeat signature	513	527	3.3E-8	T	08-11-2020	IPR020472	G-protein beta WD-40 repeat		
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50082	Trp-Asp (WD) repeats profile.	415	454	13.215	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	662	699	1.3E-7	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	571	610	86.0	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	448	486	4.8E-9	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	529	568	1.0E-6	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	408	445	1.4E-5	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	613	659	0.076	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	SMART	SM00320	WD40_4	489	526	1.6E-4	T	08-11-2020	IPR001680	WD40 repeat	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	Gene3D	G3DSA:2.130.10.10	-	405	508	8.4E-28	T	08-11-2020	IPR015943	WD40/YVTN repeat-like-containing domain superfamily	GO:0005515	
+Pocillopora_damicornis_A0A3M6TPZ0_9CNID	fd8d984f793b186732a8999fa090527d	702	ProSiteProfiles	PS50294	Trp-Asp (WD) repeats circular profile.	415	702	55.393	T	08-11-2020	IPR017986	WD40-repeat-containing domain	GO:0005515	
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1177	1197	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	PANTHER	PTHR14222:SF1	CONDENSIN-2 COMPLEX SUBUNIT D3	148	1069	0.0	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	SUPERFAMILY	SSF48371	ARM repeat	259	1064	4.66E-40	T	08-11-2020	IPR016024	Armadillo-type fold		
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1276	1291	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Pfam	PF12765	HEAT repeat associated with sister chromatid cohesion	451	470	1.5	T	08-11-2020	IPR026003	HEAT repeat associated with sister chromatid cohesion protein		
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Gene3D	G3DSA:1.25.10.10	-	723	919	1.2E-6	T	08-11-2020	IPR011989	Armadillo-like helical		
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Coils	Coil	Coil	1160	1180	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1179	1197	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	PANTHER	PTHR14222	CONDENSIN	148	1069	0.0	T	08-11-2020	IPR026971	Condensin subunit 1/Condensin-2 complex subunit D3	GO:0007076	
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	MobiDBLite	mobidb-lite	consensus disorder prediction	1234	1306	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TV88_9CNID	af4ed1fb9550598989e20dfceea3de2f	1306	Pfam	PF12717	non-SMC mitotic condensation complex subunit 1	815	985	3.8E-26	T	08-11-2020	IPR032682	Condensin complex subunit 1, C-terminal		
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	18	644	0.0	T	08-11-2020
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	241	624	1.7E-99	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	18	129	2.9E-20	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Pocillopora_damicornis_A0A3M6TY46_9CNID	a357ad8f4cd77dc7591837c2445a110b	759	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	18	644	0.0	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	230	240	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	21	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	241	263	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	206	228	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	ProSiteProfiles	PS50262	G-protein coupled receptors family 1 profile.	39	261	22.979	T	08-11-2020	IPR017452	GPCR, rhodopsin-like, 7TM	GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	191	209	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Pfam	PF00001	7 transmembrane receptor (rhodopsin family)	39	261	6.9E-25	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	24	48	1.7E-21	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	57	78	1.7E-21	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	99	121	1.7E-21	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	134	155	1.7E-21	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PRINTS	PR00237	Rhodopsin-like GPCR superfamily signature	243	269	1.7E-21	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PANTHER	PTHR24246:SF27	ADENOSINE RECEPTOR HOMOLOG	6	279	2.2E-45	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	CDD	cd14967	7tmA_amine_R-like	26	271	2.40994E-31	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	135	158	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	241	263	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	PANTHER	PTHR24246	OLFACTORY RECEPTOR AND ADENOSINE RECEPTOR	6	279	2.2E-45	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	SMART	SM01381	7TM_GPCR_Srsx_2	33	276	6.4E-4	T	08-11-2020	IPR000276	G protein-coupled receptor, rhodopsin-like	GO:0004930|GO:0007186|GO:0016021	
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	61	83	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	93	115	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Gene3D	G3DSA:1.20.1070.10	-	1	278	7.2E-42	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	135	157	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	159	169	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	22	47	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	167	189	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	SUPERFAMILY	SSF81321	Family A G protein-coupled receptor-like	18	291	2.93E-42	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	210	229	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	116	134	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	264	333	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	170	190	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	59	81	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	93	115	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	48	58	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	26	48	-	T	08-11-2020
+Pocillopora_damicornis_A0A3M6V5X9_9CNID	d630be07256611689bfaeb38e2a88da7	333	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	82	92	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	MobiDBLite	mobidb-lite	consensus disorder prediction	86	101	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	MobiDBLite	mobidb-lite	consensus disorder prediction	53	117	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	Pfam	PF05250	Uncharacterised protein family (UPF0193)	5	158	9.1E-40	T	08-11-2020	IPR007914	Uncharacterised protein family UPF0193		
+Strongylocentrotus_purpuratus_W4XMK7_STRPU	835833228fd8fb1b033870c77c2b6503	175	PANTHER	PTHR28348	UPF0193 PROTEIN EVG1	3	159	1.6E-41	T	08-11-2020	IPR007914	Uncharacterised protein family UPF0193		
+Strongylocentrotus_purpuratus_W4XX55_STRPU	80a67bd7f4496106c384f133424ecf31	351	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	10	321	7.6E-105	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Strongylocentrotus_purpuratus_W4XX55_STRPU	80a67bd7f4496106c384f133424ecf31	351	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	8	297	1.3E-83	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Strongylocentrotus_purpuratus_W4XX55_STRPU	80a67bd7f4496106c384f133424ecf31	351	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	10	321	7.6E-105	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	dde798f18479e693118d3d945b0af03e	171	PANTHER	PTHR28348	UPF0193 PROTEIN EVG1	1	161	1.7E-47	T	08-11-2020	IPR007914	Uncharacterised protein family UPF0193		
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	dde798f18479e693118d3d945b0af03e	171	Pfam	PF05250	Uncharacterised protein family (UPF0193)	1	160	3.5E-45	T	08-11-2020	IPR007914	Uncharacterised protein family UPF0193		
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	dde798f18479e693118d3d945b0af03e	171	MobiDBLite	mobidb-lite	consensus disorder prediction	16	66	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	9	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	24	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	PANTHER	PTHR24368	AMPHOTERIN-INDUCED PROTEIN	1	323	8.6E-81	T	08-11-2020	IPR031283	Amphoterin-induced protein		
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	10	21	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	22	28	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	28	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	43	325	1.7E-39	T	08-11-2020	IPR032675	Leucine-rich repeat domain superfamily		
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	SUPERFAMILY	SSF52058	L domain-like	47	247	4.42E-29	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	PANTHER	PTHR24368:SF210	ANTIGEN BSP, PUTATIVE-RELATED	1	323	8.6E-81	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Pfam	PF13855	Leucine rich repeat	75	128	6.7E-7	T	08-11-2020	IPR001611	Leucine-rich repeat	GO:0005515	
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	29	325	-	T	08-11-2020

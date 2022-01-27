@@ -1,0 +1,313 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MAFNYGLFRLPFVICCLLLPLTMQTLRRDSLLTPSTFDRESLGCEMNIELKTASCGNRGLNSVPQNISIDILRFDLFRNNITSLLSWSFKRYPLITRLDLSQNDIRVIERTALHPIKDLMYLDISFNPHLVLPGTGLLRWARKLSNLNLQSSNLQSLPNDILKWSPRLKYVGLYRNHLKVVNVSSCGTSEHVTLSYNQIEHINADDFYFVCHVGYLNLQGNPILSVDPNVVASLHVRKLFVGDYPVTFESFRDLFSGISHSEIKEIVIMNASIVAFPDNFFDPLRDWPIHLLKFSNMYNEVNVLHSFVFSNLTRVYELSFEDDYI",
+  "md5" : "d92cae9ce651dfed9c474613dd929308",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_N_REGION",
+      "name" : "Signal peptide N-region",
+      "description" : "N-terminal region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 9,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 9,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_N_REGION"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-noTM",
+      "name" : "SignalP-noTM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_EUK",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 24,
+      "score" : 0.643,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 24,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "EUK",
+    "model-ac" : "SignalP-noTM"
+  }, {
+    "signature" : {
+      "accession" : "PTHR24368",
+      "name" : "AMPHOTERIN-INDUCED PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR031283",
+        "name" : "AMIGO",
+        "description" : "Amphoterin-induced protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 323,
+      "hmmStart" : 1,
+      "hmmEnd" : 289,
+      "hmmLength" : 596,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 325,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 323,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.6E-81,
+    "familyName" : "Not available",
+    "score" : 284.0,
+    "model-ac" : "PTHR24368"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_H_REGION",
+      "name" : "Signal peptide H-region",
+      "description" : "Hydrophobic region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 21,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 21,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_H_REGION"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_C_REGION",
+      "name" : "Signal peptide C-region",
+      "description" : "C-terminal region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 22,
+      "end" : 28,
+      "location-fragments" : [ {
+        "start" : 22,
+        "end" : 28,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_C_REGION"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE",
+      "name" : "Signal Peptide",
+      "description" : "Signal peptide region",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 28,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 28,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.80.10.10",
+      "name" : "Ribonuclease Inhibitor",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR032675",
+        "name" : "LRR_dom_sf",
+        "description" : "Leucine-rich repeat domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 43,
+      "end" : 325,
+      "hmmStart" : 3,
+      "hmmEnd" : 291,
+      "hmmLength" : 611,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.7E-39,
+      "score" : 137.4,
+      "envelopeStart" : 43,
+      "envelopeEnd" : 325,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 43,
+        "end" : 325,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-39,
+    "score" : 138.0,
+    "model-ac" : "4g8aA00"
+  }, {
+    "signature" : {
+      "accession" : "SSF52058",
+      "name" : "L domain-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 47,
+      "end" : 247,
+      "hmmLength" : 266,
+      "location-fragments" : [ {
+        "start" : 47,
+        "end" : 247,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.42E-29,
+    "model-ac" : "0048059"
+  }, {
+    "signature" : {
+      "accession" : "PTHR24368:SF210",
+      "name" : "ANTIGEN BSP, PUTATIVE-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 323,
+      "hmmStart" : 1,
+      "hmmEnd" : 289,
+      "hmmLength" : 596,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 325,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 323,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.6E-81,
+    "familyName" : "Not available",
+    "score" : 284.0,
+    "model-ac" : "PTHR24368:SF210"
+  }, {
+    "signature" : {
+      "accession" : "PF13855",
+      "name" : "LRR_8",
+      "description" : "Leucine rich repeat",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR001611",
+        "name" : "Leu-rich_rpt",
+        "description" : "Leucine-rich repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ {
+          "name" : "protein binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005515"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 75,
+      "end" : 128,
+      "hmmStart" : 7,
+      "hmmEnd" : 60,
+      "hmmLength" : 61,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 6.7E-7,
+      "score" : 29.0,
+      "envelopeStart" : 73,
+      "envelopeEnd" : 128,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 75,
+        "end" : 128,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.6E-17,
+    "score" : 63.0,
+    "model-ac" : "PF13855"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 29,
+      "end" : 325,
+      "location-fragments" : [ {
+        "start" : 29,
+        "end" : 325,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  } ],
+  "xref" : [ {
+    "name" : "Strongylocentrotus_purpuratus_W4Z7T7_STRPU",
+    "id" : "Strongylocentrotus_purpuratus_W4Z7T7_STRPU"
+  } ]
+} ]
+}

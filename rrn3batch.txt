@@ -1,0 +1,2 @@
+species.tre
+myhomologs.renamed.aligned.r50.fullboot.midpoint.treefile

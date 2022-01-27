@@ -1,0 +1,2 @@
+GT name	Strongylocentrotus_purpuratus	Deuterostomia	Homo_sapiens	Bilateria	Drosophila_melanogaster	Eumetazoa	Pocillopora_damicornis	Cnidaria	Nematostella_vectensis
+myhomologs.renamed.aligned.r50.fullboot.midpoint.treefile	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0

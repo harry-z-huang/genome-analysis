@@ -1,0 +1,156 @@
+<?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="d92cae9ce651dfed9c474613dd929308">MAFNYGLFRLPFVICCLLLPLTMQTLRRDSLLTPSTFDRESLGCEMNIELKTASCGNRGLNSVPQNISIDILRFDLFRNNITSLLSWSFKRYPLITRLDLSQNDIRVIERTALHPIKDLMYLDISFNPHLVLPGTGLLRWARKLSNLNLQSSNLQSLPNDILKWSPRLKYVGLYRNHLKVVNVSSCGTSEHVTLSYNQIEHINADDFYFVCHVGYLNLQGNPILSVDPNVVASLHVRKLFVGDYPVTFESFRDLFSGISHSEIKEIVIMNASIVAFPDNFFDPLRDWPIHLLKFSNMYNEVNVLHSFVFSNLTRVYELSFEDDYI</sequence>
+    <xref id="Strongylocentrotus_purpuratus_W4Z7T7_STRPU" name="Strongylocentrotus_purpuratus_W4Z7T7_STRPU"/>
+    <matches>
+      <hmmer3-match evalue="1.2E-39" score="138.0">
+        <signature ac="G3DSA:3.80.10.10" name="Ribonuclease Inhibitor">
+          <entry ac="IPR032675" desc="Leucine-rich repeat domain superfamily" name="LRR_dom_sf" type="HOMOLOGOUS_SUPERFAMILY"/>
+          <signature-library-release library="GENE3D" version="4.2.0"/>
+        </signature>
+        <model-ac>4g8aA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="325" env-start="43" post-processed="true" score="137.4" evalue="1.7E-39" hmm-start="3" hmm-end="291" hmm-length="611" hmm-bounds="COMPLETE" start="43" end="325">
+            <location-fragments>
+              <hmmer3-location-fragment start="43" end="325" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.6E-17" score="63.0">
+        <signature ac="PF13855" desc="Leucine rich repeat" name="LRR_8">
+          <entry ac="IPR001611" desc="Leucine-rich repeat" name="Leu-rich_rpt" type="REPEAT">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005515" name="protein binding"/>
+          </entry>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF13855</model-ac>
+        <locations>
+          <hmmer3-location env-end="128" env-start="73" post-processed="true" score="29.0" evalue="6.7E-7" hmm-start="7" hmm-end="60" hmm-length="61" hmm-bounds="C_TERMINAL_COMPLETE" start="75" end="128">
+            <location-fragments>
+              <hmmer3-location-fragment start="75" end="128" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="8.6E-81" familyName="Not available" score="284.0">
+        <signature ac="PTHR24368" name="AMPHOTERIN-INDUCED PROTEIN">
+          <entry ac="IPR031283" desc="Amphoterin-induced protein" name="AMIGO" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24368</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="325" hmm-start="1" hmm-end="289" hmm-length="596" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="323">
+            <location-fragments>
+              <panther-location-fragment start="1" end="323" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="8.6E-81" familyName="Not available" score="284.0">
+        <signature ac="PTHR24368:SF210" name="ANTIGEN BSP, PUTATIVE-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24368:SF210</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="325" hmm-start="1" hmm-end="289" hmm-length="596" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="323">
+            <location-fragments>
+              <panther-location-fragment start="1" end="323" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <phobius-match>
+        <signature ac="SIGNAL_PEPTIDE_N_REGION" desc="N-terminal region of a signal peptide." name="Signal peptide N-region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>SIGNAL_PEPTIDE_N_REGION</model-ac>
+        <locations>
+          <phobius-location start="1" end="9">
+            <location-fragments>
+              <phobius-location-fragment start="1" end="9" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="SIGNAL_PEPTIDE_H_REGION" desc="Hydrophobic region of a signal peptide." name="Signal peptide H-region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>SIGNAL_PEPTIDE_H_REGION</model-ac>
+        <locations>
+          <phobius-location start="10" end="21">
+            <location-fragments>
+              <phobius-location-fragment start="10" end="21" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="SIGNAL_PEPTIDE_C_REGION" desc="C-terminal region of a signal peptide." name="Signal peptide C-region">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>SIGNAL_PEPTIDE_C_REGION</model-ac>
+        <locations>
+          <phobius-location start="22" end="28">
+            <location-fragments>
+              <phobius-location-fragment start="22" end="28" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="SIGNAL_PEPTIDE" desc="Signal peptide region" name="Signal Peptide">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>SIGNAL_PEPTIDE</model-ac>
+        <locations>
+          <phobius-location start="1" end="28">
+            <location-fragments>
+              <phobius-location-fragment start="1" end="28" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <phobius-match>
+        <signature ac="NON_CYTOPLASMIC_DOMAIN" desc="Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region." name="Non cytoplasmic domain">
+          <signature-library-release library="PHOBIUS" version="1.01"/>
+        </signature>
+        <model-ac>NON_CYTOPLASMIC_DOMAIN</model-ac>
+        <locations>
+          <phobius-location start="29" end="325">
+            <location-fragments>
+              <phobius-location-fragment start="29" end="325" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </phobius-location>
+        </locations>
+      </phobius-match>
+      <signalp-match>
+        <signature ac="SignalP-noTM" name="SignalP-noTM">
+          <signature-library-release library="SIGNALP_EUK" version="4.1"/>
+        </signature>
+        <model-ac>SignalP-noTM</model-ac>
+        <locations>
+          <signalp-location score="0.643" start="1" end="24">
+            <location-fragments>
+              <signalp-location-fragment start="1" end="24" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </signalp-location>
+        </locations>
+      </signalp-match>
+      <superfamilyhmmer3-match evalue="4.42E-29">
+        <signature ac="SSF52058" name="L domain-like">
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0048059</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="266" start="47" end="247">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="47" end="247" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
+  <protein>
+    <sequence md5="dde798f18479e693118d3d945b0af03e">MKESKLNNFQARQLQKTMKDGAALPLACNPTTSARPAQPLLPQKPSVRVNPKGYGKGVRTKEDIEDSGAYERDMYTGGGVTKSLDKEKERLQNYMAYGEDIPPISEERKREVLKTPEPEPMIDRFADLEAEIQERVEFLEDMKKMGKERQYKAIIGTEISMVCYYQTVMII</sequence>
+    <xref id="Strongylocentrotus_purpuratus_W4Y3R2_STRPU" name="Strongylocentrotus_purpuratus_W4Y3R2_STRPU"/>
+    <matches>
+      <hmmer3-match evalue="3.0E-45" score="154.7">
+        <signature ac="PF05250" desc="Uncharacterised protein family (UPF0193)" name="UPF0193">
+          <entry ac="IPR007914" desc="Uncharacterised protein family UPF0193" name="UPF0193" type="FAMILY"/>
+          <signature-library-release library="PFAM" version="33.1"/>
+        </signature>
+        <model-ac>PF05250</model-ac>
+        <locations>
+          <hmmer3-location env-end="163" env-start="1" post-processed="true" score="154.5" evalue="3.5E-45" hmm-start="34" hmm-end="196" hmm-length="217" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="160">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="160" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="16" end="66">
+            <location-fragments>
+              <mobidblite-location-fragment start="16" end="66" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="1.7E-47" familyName="Not available" score="173.8">
+        <signature ac="PTHR28348" name="UPF0193 PROTEIN EVG1">
+          <entry ac="IPR007914" desc="Uncharacterised protein family UPF0193" name="UPF0193" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR28348</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="165" hmm-start="33" hmm-end="196" hmm-length="223" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="161">
+            <location-fragments>
+              <panther-location-fragment start="1" end="161" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

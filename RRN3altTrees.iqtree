@@ -1,0 +1,120 @@
+IQ-TREE 2.1.1 COVID-edition built Aug 22 2020
+
+Input file name: myhomologs.renamed.aligned.r50.fa
+User tree file name: myhomologs.renamed.aligned.r50.fullboot.treefile
+Type of analysis: tree reconstruction
+Random seed number: 221585
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 14 sequences with 481 amino-acid sites
+Number of constant sites: 1 (= 0.2079% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1 (= 0.2079% of all sites)
+Number of parsimony informative sites: 375
+Number of distinct site patterns: 481
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: VT+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 5.1124
+
+ Category  Relative_rate  Proportion
+  1         0.5067         0.2500
+  2         0.8066         0.2500
+  3         1.0831         0.2500
+  4         1.6036         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+USER TREE
+---------
+
+Log-likelihood of the tree: -11023.4798 (s.e. 125.9640)
+Unconstrained log-likelihood (without tree): -2970.5922
+Number of free parameters (#branches + #model parameters): 26
+Akaike information criterion (AIC) score: 22098.9596
+Corrected Akaike information criterion (AICc) score: 22102.0522
+Bayesian information criterion (BIC) score: 22207.5322
+
+Total tree length (sum of branch lengths): 19.1607
+Sum of internal branch lengths: 4.3436 (22.6691% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Pocillopora_damicornis_A0A3M6TPZ0_9CNID' is drawn at root
+
++-----------------------------------------------Pocillopora_damicornis_A0A3M6TPZ0_9CNID
+|
+|                              +---------------------------------Nematostella_vectensis_XP_032239229.1
+|                      +-------| (41)
+|                      |       +------------------------------Pocillopora_damicornis_A0A3M6V5X9_9CNID
+|                   +--| (14)
+|                   |  |   +--Nematostella_vectensis_RRN3
+|                   |  +---| (90)
+|                   |      |  +--Nematostella_vectensis_XP_032221138.1
+|                   |      +--| (92)
+|                   |         +**Nematostella_vectensis_XP_032225881.1
+|                +--| (17)
+|                |  +----Pocillopora_damicornis_A0A3M6TY46_9CNID
+|             +--| (9)
+|             |  +------Strongylocentrotus_purpuratus_W4XX55_STRPU
+|          +--| (7)
+|          |  |                                   +--Strongylocentrotus_purpuratus_W4XMK7_STRPU
+|          |  +-----------------------------------| (100)
+|          |                                      +--Strongylocentrotus_purpuratus_W4Y3R2_STRPU
+|       +--| (6)
+|       |  +-----Homo_sapiens_Q9NYV6_RRN3
+|    +--| (8)
+|    |  +------------------------------------Strongylocentrotus_purpuratus_W4Z7T7_STRPU
++----| (14)
+|    +-----------Drosophila_melanogaster_Q9V9M6_DROME
+|
++----------------------------------Pocillopora_damicornis_A0A3M6TV88_9CNID
+
+Tree in newick format:
+
+(Pocillopora_damicornis_A0A3M6TPZ0_9CNID:3.1848471691,((((((((Nematostella_vectensis_XP_032239229.1:2.2715616839,Pocillopora_damicornis_A0A3M6V5X9_9CNID:2.1060076252)41:0.5281680457,(Nematostella_vectensis_RRN3:0.0645262968,(Nematostella_vectensis_XP_032221138.1:0.0041704234,Nematostella_vectensis_XP_032225881.1:0.0000010000)92:0.0021396394)90:0.2681189078)14:0.1459789972,Pocillopora_damicornis_A0A3M6TY46_9CNID:0.3922423522)17:0.2535337753,Strongylocentrotus_purpuratus_W4XX55_STRPU:0.5183500828)9:0.0530731801,(Strongylocentrotus_purpuratus_W4XMK7_STRPU:0.0328261194,Strongylocentrotus_purpuratus_W4Y3R2_STRPU:0.2015152124)100:2.3946636249)7:0.0864296937,Homo_sapiens_Q9NYV6_RRN3:0.4191050561)6:0.0592988847,Strongylocentrotus_purpuratus_W4Z7T7_STRPU:2.4504521921)8:0.2121382555,Drosophila_melanogaster_Q9V9M6_DROME:0.8087373561)14:0.3400077674,Pocillopora_damicornis_A0A3M6TV88_9CNID:2.3627866893);
+
+
+USER TREES
+----------
+
+See RRN3altTrees.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -11023.47519       0   0.907 +  0.909 +      1 +     0.901 +    0.914 + 
+  2 -11033.91109  10.436  0.0925 + 0.0912 + 0.0912 +    0.0988 +   0.0855 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+TIME STAMP
+----------
+
+Date and time: Sun Nov  8 06:08:22 2020
+Total CPU time used: 0.674 seconds (0h:0m:0s)
+Total wall-clock time used: 0.706 seconds (0h:0m:0s)
+

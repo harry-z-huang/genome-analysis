@@ -1,0 +1,118 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MDGLDDEKVESSKDDEEKVKLSEKATKVDTLMCVLMVFLKESCFKNGEFLFEETKVLHRYLLQVFESVLLPTHASSHVQFLFFYFCSFRQGIVDSFVDALWRRFINPNTPAVVRQTTASYMASFVARANYLPASTVNACLDLMVSWIHCYINNQESASRFSKEVKVHGPFYSLCQAVLYIFVYRHKQLLENNKGLHYIMSLNLERVVTCRLNPLKVCLPSVVNIFATLARKFQVAFCYTVMEHNARSKLPVFKLNTFGSGAMATPGNPLDSFFPFDPYVLPQSGVDIEKLYRHWEGCKPDFSGLEPAVDDSEDEEEFMQYESVDKDIPLGLTPTSAACISPGFRSPSSFGR",
+  "md5" : "80a67bd7f4496106c384f133424ecf31",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR12790",
+      "name" : "TRANSCRIPTION INITIATION FACTOR IA  RRN3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 321,
+      "hmmStart" : 263,
+      "hmmEnd" : 575,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 348,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 321,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.6E-105,
+    "familyName" : "Not available",
+    "score" : 363.5,
+    "model-ac" : "PTHR12790"
+  }, {
+    "signature" : {
+      "accession" : "PF05327",
+      "name" : "RRN3",
+      "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR007991",
+        "name" : "RNA_pol_I_trans_ini_fac_RRN3",
+        "description" : "RNA polymerase I specific transcription initiation factor RRN3",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 8,
+      "end" : 297,
+      "hmmStart" : 257,
+      "hmmEnd" : 555,
+      "hmmLength" : 557,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.3E-83,
+      "score" : 281.4,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 299,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 8,
+        "end" : 297,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.1E-83,
+    "score" : 281.6,
+    "model-ac" : "PF05327"
+  }, {
+    "signature" : {
+      "accession" : "PTHR12790:SF0",
+      "name" : "RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 321,
+      "hmmStart" : 263,
+      "hmmEnd" : 575,
+      "hmmLength" : 622,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 348,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 321,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.6E-105,
+    "familyName" : "Not available",
+    "score" : 363.5,
+    "model-ac" : "PTHR12790:SF0"
+  } ],
+  "xref" : [ {
+    "name" : "Strongylocentrotus_purpuratus_W4XX55_STRPU",
+    "id" : "Strongylocentrotus_purpuratus_W4XX55_STRPU"
+  } ]
+} ]
+}

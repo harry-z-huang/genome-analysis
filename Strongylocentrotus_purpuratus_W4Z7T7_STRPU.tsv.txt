@@ -1,0 +1,11 @@
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	9	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	24	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	PANTHER	PTHR24368	AMPHOTERIN-INDUCED PROTEIN	1	323	8.6E-81	T	08-11-2020	IPR031283	Amphoterin-induced protein		
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	10	21	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	22	28	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	28	-	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Gene3D	G3DSA:3.80.10.10	Ribonuclease Inhibitor	43	325	1.7E-39	T	08-11-2020	IPR032675	Leucine-rich repeat domain superfamily		
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	SUPERFAMILY	SSF52058	L domain-like	47	247	4.42E-29	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	PANTHER	PTHR24368:SF210	ANTIGEN BSP, PUTATIVE-RELATED	1	323	8.6E-81	T	08-11-2020
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Pfam	PF13855	Leucine rich repeat	75	128	6.7E-7	T	08-11-2020	IPR001611	Leucine-rich repeat	GO:0005515	
+Strongylocentrotus_purpuratus_W4Z7T7_STRPU	d92cae9ce651dfed9c474613dd929308	325	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	29	325	-	T	08-11-2020

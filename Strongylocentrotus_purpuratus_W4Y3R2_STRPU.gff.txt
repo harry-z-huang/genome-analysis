@@ -1,0 +1,23 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Strongylocentrotus_purpuratus_W4Y3R2_STRPU 1 171
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	.	polypeptide	1	171	.	+	.	ID=Strongylocentrotus_purpuratus_W4Y3R2_STRPU;md5=dde798f18479e693118d3d945b0af03e
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	PANTHER	protein_match	1	161	1.7E-47	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4Y3R2_STRPU 1 161;ID=match$1_1_161;Name=PTHR28348;status=T;Dbxref="InterPro:IPR007914"
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	Pfam	protein_match	1	160	3.5E-45	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4Y3R2_STRPU 1 160;ID=match$2_1_160;signature_desc=Uncharacterised protein family (UPF0193);Name=PF05250;status=T;Dbxref="InterPro:IPR007914"
+Strongylocentrotus_purpuratus_W4Y3R2_STRPU	MobiDBLite	protein_match	16	66	.	+	.	date=08-11-2020;Target=Strongylocentrotus_purpuratus_W4Y3R2_STRPU 16 66;ID=match$3_16_66;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##FASTA
+>Strongylocentrotus_purpuratus_W4Y3R2_STRPU
+MKESKLNNFQARQLQKTMKDGAALPLACNPTTSARPAQPLLPQKPSVRVNPKGYGKGVRT
+KEDIEDSGAYERDMYTGGGVTKSLDKEKERLQNYMAYGEDIPPISEERKREVLKTPEPEP
+MIDRFADLEAEIQERVEFLEDMKKMGKERQYKAIIGTEISMVCYYQTVMII
+>match$1_1_161
+MKESKLNNFQARQLQKTMKDGAALPLACNPTTSARPAQPLLPQKPSVRVNPKGYGKGVRT
+KEDIEDSGAYERDMYTGGGVTKSLDKEKERLQNYMAYGEDIPPISEERKREVLKTPEPEP
+MIDRFADLEAEIQERVEFLEDMKKMGKERQYKAIIGTEISM
+>match$2_1_160
+MKESKLNNFQARQLQKTMKDGAALPLACNPTTSARPAQPLLPQKPSVRVNPKGYGKGVRT
+KEDIEDSGAYERDMYTGGGVTKSLDKEKERLQNYMAYGEDIPPISEERKREVLKTPEPEP
+MIDRFADLEAEIQERVEFLEDMKKMGKERQYKAIIGTEIS
+>match$3_16_66
+KTMKDGAALPLACNPTTSARPAQPLLPQKPSVRVNPKGYGKGVRTKEDIED

@@ -1,0 +1,110 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MKESKLNNFQARQLQKTMKDGAALPLACNPTTSARPAQPLLPQKPSVRVNPKGYGKGVRTKEDIEDSGAYERDMYTGGGVTKSLDKEKERLQNYMAYGEDIPPISEERKREVLKTPEPEPMIDRFADLEAEIQERVEFLEDMKKMGKERQYKAIIGTEISMVCYYQTVMII",
+  "md5" : "dde798f18479e693118d3d945b0af03e",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR28348",
+      "name" : "UPF0193 PROTEIN EVG1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : {
+        "accession" : "IPR007914",
+        "name" : "UPF0193",
+        "description" : "Uncharacterised protein family UPF0193",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 161,
+      "hmmStart" : 33,
+      "hmmEnd" : 196,
+      "hmmLength" : 223,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 165,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 161,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-47,
+    "familyName" : "Not available",
+    "score" : 173.8,
+    "model-ac" : "PTHR28348"
+  }, {
+    "signature" : {
+      "accession" : "PF05250",
+      "name" : "UPF0193",
+      "description" : "Uncharacterised protein family (UPF0193)",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR007914",
+        "name" : "UPF0193",
+        "description" : "Uncharacterised protein family UPF0193",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 160,
+      "hmmStart" : 34,
+      "hmmEnd" : 196,
+      "hmmLength" : 217,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 3.5E-45,
+      "score" : 154.5,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 163,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 160,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.0E-45,
+    "score" : 154.7,
+    "model-ac" : "PF05250"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 16,
+      "end" : 66,
+      "location-fragments" : [ {
+        "start" : 16,
+        "end" : 66,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  } ],
+  "xref" : [ {
+    "name" : "Strongylocentrotus_purpuratus_W4Y3R2_STRPU",
+    "id" : "Strongylocentrotus_purpuratus_W4Y3R2_STRPU"
+  } ]
+} ]
+}

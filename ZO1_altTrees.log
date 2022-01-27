@@ -1,0 +1,82 @@
+IQ-TREE multicore version 2.1.1 COVID-edition for Linux 64-bit built Aug 22 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    ip-172-31-65-170.ec2.internal (AVX2, FMA3, 3 GB RAM)
+Command: iqtree -s myhomologs.renamed.aligned.r50.fa -z myhomologs.r50.alternativetrees -au -zb 10000 --prefix ZO1_altTrees -m VT+G4 -nt 2 -te myhomologs.renamed.aligned.r50.fullboot.treefile -redo
+Seed:    362996 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Nov  8 05:54:46 2020
+Kernel:  AVX+FMA - 2 threads (2 CPU cores detected)
+
+Reading alignment file myhomologs.renamed.aligned.r50.fa ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 14 sequences with 481 columns, 481 distinct patterns
+375 parsimony-informative, 105 singleton sites, 1 constant sites
+                                            Gap/Ambiguity  Composition  p-value
+   1  Pocillopora_damicornis_A0A3M6TPZ0_9CNID       1.04%    failed      0.09%
+   2  Nematostella_vectensis_XP_032239229.1        34.51%    failed      0.30%
+   3  Pocillopora_damicornis_A0A3M6TV88_9CNID       0.21%    passed     80.81%
+   4  Strongylocentrotus_purpuratus_W4XMK7_STRPU   64.66%    failed      0.04%
+   5  Strongylocentrotus_purpuratus_W4Y3R2_STRPU   65.28%    failed      0.06%
+   6  Strongylocentrotus_purpuratus_W4Z7T7_STRPU   37.42%    failed      1.59%
+   7  Pocillopora_damicornis_A0A3M6V5X9_9CNID      30.98%    failed      0.98%
+   8  Drosophila_melanogaster_Q9V9M6_DROME          4.78%    passed     21.43%
+   9  Pocillopora_damicornis_A0A3M6TY46_9CNID       4.78%    passed     72.87%
+  10  Nematostella_vectensis_RRN3                  68.81%    passed     74.45%
+  11  Nematostella_vectensis_XP_032221138.1         0.00%    passed     98.79%
+  12  Nematostella_vectensis_XP_032225881.1         0.00%    passed     98.77%
+  13  Homo_sapiens_Q9NYV6_RRN3                      1.04%    passed     96.10%
+  14  Strongylocentrotus_purpuratus_W4XX55_STRPU   29.11%    passed     65.68%
+WARNING: 3 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                        24.47%  6 sequences failed composition chi2 test (p-value<5%; df=19)
+Reading input tree file myhomologs.renamed.aligned.r50.fullboot.treefile ...
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -11128.612
+2. Current log-likelihood: -11051.147
+3. Current log-likelihood: -11034.062
+4. Current log-likelihood: -11027.861
+5. Current log-likelihood: -11025.133
+6. Current log-likelihood: -11024.048
+7. Current log-likelihood: -11023.653
+8. Current log-likelihood: -11023.524
+9. Current log-likelihood: -11023.491
+Optimal log-likelihood: -11023.480
+Gamma shape alpha: 5.112
+Parameters optimization took 9 rounds (0.332 sec)
+BEST SCORE FOUND : -11023.480
+Total tree length: 19.161
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.673 sec (0h:0m:0s)
+Total wall-clock time used: 0.340 sec (0h:0m:0s)
+
+Reading trees in myhomologs.r50.alternativetrees ...
+2 trees detected
+Note: 18.658 MB of RAM required!
+Creating 10000 bootstrap replicates...
+done
+Tree 1 / LogL: -11023.475
+Tree 2 / LogL: -11033.911
+Performing RELL-BP test...
+Performing KH and SH test...
+Performing ELW test...
+Performing approximately unbiased (AU) test...
+1 MB required for AU test
+Generating 10 x 10000 multiscale bootstrap replicates... 0.241 seconds
+TreeID	AU	RSS	d	c
+1	0.921	8.809	-1.382	0.027
+2	0.079	8.809	1.382	-0.027
+Time for AU test: 0.241 seconds
+Time for evaluating all trees: 0.415 sec.
+
+Analysis results written to: 
+  IQ-TREE report:                ZO1_altTrees.iqtree
+  Maximum-likelihood tree:       ZO1_altTrees.treefile
+  Evaluated user trees:          ZO1_altTrees.trees
+  Screen log file:               ZO1_altTrees.log
+
+Date and Time: Sun Nov  8 05:54:47 2020

@@ -1,0 +1,3 @@
+Strongylocentrotus_purpuratus_W4XX55_STRPU	80a67bd7f4496106c384f133424ecf31	351	PANTHER	PTHR12790	TRANSCRIPTION INITIATION FACTOR IA  RRN3	10	321	7.6E-105	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Strongylocentrotus_purpuratus_W4XX55_STRPU	80a67bd7f4496106c384f133424ecf31	351	Pfam	PF05327	RNA polymerase I specific transcription initiation factor RRN3	8	297	1.3E-83	T	08-11-2020	IPR007991	RNA polymerase I specific transcription initiation factor RRN3		
+Strongylocentrotus_purpuratus_W4XX55_STRPU	80a67bd7f4496106c384f133424ecf31	351	PANTHER	PTHR12790:SF0	RNA POLYMERASE I-SPECIFIC TRANSCRIPTION INITIATION FACTOR RRN3-RELATED	10	321	7.6E-105	T	08-11-2020
