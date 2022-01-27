@@ -1,4 +1,4 @@
-# Nematostella Vectensis XP_032221022.1 analysis
+# Nematostella vectensis XP_032221022.1 analysis
 
 # 1. Gene identification and Alignment
 
