@@ -1,4 +1,4 @@
-# Final Project Bio 312 111642243
+# Nematostella Vectensis XP_032221022.1 analysis
 
 # 1. Gene identification and Alignment
 
